@@ -7,7 +7,7 @@ env:
   LETTERBOXD_USERNAME: "heartymorales"  # Your Letterboxd username
   YEARS: "2026"                            # Years to generate (e.g. "2026,2025" or leave empty for current)
   EXPORT_PNG: "false"                  # Set to "true" to also generate PNG files
-  WEEK_START: "sunday"                 # "sunday" or "monday"
+  WEEK_START: "monday"                 # "sunday" or "monday"
   GRADIENT: "true"                     # "true" for colored name, "false" for white
 
 on:
