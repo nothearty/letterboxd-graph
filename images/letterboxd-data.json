@@ -4,7 +4,7 @@
   "years": [
     2026
   ],
-  "generatedAt": "2026-06-03T04:23:05.629Z",
+  "generatedAt": "2026-06-04T04:18:41.721Z",
   "meta": {
     "weekStart": "monday",
     "minYear": 2026,
@@ -16,8 +16,8 @@
     "maxCount": 2
   },
   "stats": {
-    "films": 30,
-    "daysActive": 29,
+    "films": 31,
+    "daysActive": 30,
     "streak": 2
   },
   "monthLabels": [
@@ -2000,10 +2000,17 @@
       "date": "2026-06-03",
       "week": 22,
       "weekday": 2,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 1,
+      "ratingAvg": 2.5,
+      "films": [
+        {
+          "title": "Subservience",
+          "year": "2024",
+          "rating": 2.5,
+          "url": "https://letterboxd.com/heartymorales/film/subservience-2024/"
+        }
+      ],
+      "level": 2,
       "inRange": true,
       "url": "https://letterboxd.com/heartymorales/diary/films/for/2026/06/03/"
     },
@@ -4741,9 +4748,30 @@
         }
       ],
       "url": "https://letterboxd.com/heartymorales/diary/films/for/2026/05/31/"
+    },
+    {
+      "date": "2026-06-03",
+      "count": 1,
+      "ratingAvg": 2.5,
+      "films": [
+        {
+          "title": "Subservience",
+          "year": "2024",
+          "rating": 2.5,
+          "url": "https://letterboxd.com/heartymorales/film/subservience-2024/"
+        }
+      ],
+      "url": "https://letterboxd.com/heartymorales/diary/films/for/2026/06/03/"
     }
   ],
   "recent": [
+    {
+      "date": "2026-06-03",
+      "title": "Subservience",
+      "year": "2024",
+      "rating": 2.5,
+      "url": "https://letterboxd.com/heartymorales/film/subservience-2024/"
+    },
     {
       "date": "2026-05-31",
       "title": "Ladies First",
@@ -4806,13 +4834,6 @@
       "year": "2019",
       "rating": 4,
       "url": "https://letterboxd.com/heartymorales/film/anna-2019/"
-    },
-    {
-      "date": "2026-05-08",
-      "title": "The Lego Movie",
-      "year": "2014",
-      "rating": 4,
-      "url": "https://letterboxd.com/heartymorales/film/the-lego-movie/"
     }
   ]
 }
