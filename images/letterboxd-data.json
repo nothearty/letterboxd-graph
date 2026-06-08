@@ -4,7 +4,7 @@
   "years": [
     2026
   ],
-  "generatedAt": "2026-06-07T04:11:28.539Z",
+  "generatedAt": "2026-06-08T04:16:39.929Z",
   "meta": {
     "weekStart": "monday",
     "minYear": 2026,
@@ -16,8 +16,8 @@
     "maxCount": 2
   },
   "stats": {
-    "films": 31,
-    "daysActive": 30,
+    "films": 32,
+    "daysActive": 31,
     "streak": 2
   },
   "monthLabels": [
@@ -2051,10 +2051,17 @@
       "date": "2026-06-07",
       "week": 22,
       "weekday": 6,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 1,
+      "ratingAvg": 4,
+      "films": [
+        {
+          "title": "Blended",
+          "year": "2014",
+          "rating": 4,
+          "url": "https://letterboxd.com/heartymorales/film/blended/"
+        }
+      ],
+      "level": 2,
       "inRange": true,
       "url": "https://letterboxd.com/heartymorales/diary/films/for/2026/06/07/"
     },
@@ -4762,9 +4769,30 @@
         }
       ],
       "url": "https://letterboxd.com/heartymorales/diary/films/for/2026/06/03/"
+    },
+    {
+      "date": "2026-06-07",
+      "count": 1,
+      "ratingAvg": 4,
+      "films": [
+        {
+          "title": "Blended",
+          "year": "2014",
+          "rating": 4,
+          "url": "https://letterboxd.com/heartymorales/film/blended/"
+        }
+      ],
+      "url": "https://letterboxd.com/heartymorales/diary/films/for/2026/06/07/"
     }
   ],
   "recent": [
+    {
+      "date": "2026-06-07",
+      "title": "Blended",
+      "year": "2014",
+      "rating": 4,
+      "url": "https://letterboxd.com/heartymorales/film/blended/"
+    },
     {
       "date": "2026-06-03",
       "title": "Subservience",
@@ -4827,13 +4855,6 @@
       "year": "2015",
       "rating": 4,
       "url": "https://letterboxd.com/heartymorales/film/the-wedding-ringer/"
-    },
-    {
-      "date": "2026-05-10",
-      "title": "Anna",
-      "year": "2019",
-      "rating": 4,
-      "url": "https://letterboxd.com/heartymorales/film/anna-2019/"
     }
   ]
 }
