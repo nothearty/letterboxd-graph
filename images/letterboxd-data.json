@@ -4,7 +4,7 @@
   "years": [
     2026
   ],
-  "generatedAt": "2026-06-10T03:59:19.965Z",
+  "generatedAt": "2026-06-11T04:12:30.260Z",
   "meta": {
     "weekStart": "monday",
     "minYear": 2026,
@@ -16,8 +16,8 @@
     "maxCount": 2
   },
   "stats": {
-    "films": 32,
-    "daysActive": 31,
+    "films": 33,
+    "daysActive": 32,
     "streak": 2
   },
   "monthLabels": [
@@ -2091,10 +2091,17 @@
       "date": "2026-06-10",
       "week": 23,
       "weekday": 2,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 1,
+      "ratingAvg": 5,
+      "films": [
+        {
+          "title": "Fight Club",
+          "year": "1999",
+          "rating": 5,
+          "url": "https://letterboxd.com/heartymorales/film/fight-club/1/"
+        }
+      ],
+      "level": 2,
       "inRange": true,
       "url": "https://letterboxd.com/heartymorales/diary/films/for/2026/06/10/"
     },
@@ -4783,9 +4790,30 @@
         }
       ],
       "url": "https://letterboxd.com/heartymorales/diary/films/for/2026/06/07/"
+    },
+    {
+      "date": "2026-06-10",
+      "count": 1,
+      "ratingAvg": 5,
+      "films": [
+        {
+          "title": "Fight Club",
+          "year": "1999",
+          "rating": 5,
+          "url": "https://letterboxd.com/heartymorales/film/fight-club/1/"
+        }
+      ],
+      "url": "https://letterboxd.com/heartymorales/diary/films/for/2026/06/10/"
     }
   ],
   "recent": [
+    {
+      "date": "2026-06-10",
+      "title": "Fight Club",
+      "year": "1999",
+      "rating": 5,
+      "url": "https://letterboxd.com/heartymorales/film/fight-club/1/"
+    },
     {
       "date": "2026-06-07",
       "title": "Blended",
@@ -4848,13 +4876,6 @@
       "year": "2014",
       "rating": 5,
       "url": "https://letterboxd.com/heartymorales/film/whiplash-2014/"
-    },
-    {
-      "date": "2026-05-15",
-      "title": "The Wedding Ringer",
-      "year": "2015",
-      "rating": 4,
-      "url": "https://letterboxd.com/heartymorales/film/the-wedding-ringer/"
     }
   ]
 }
