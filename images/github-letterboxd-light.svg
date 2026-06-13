@@ -125,7 +125,7 @@
       <tspan dx="5" fill="#1f2328">169</tspan>
       <tspan fill="#656d76"> Films</tspan>
       <tspan dx="5" fill="#656d76">•</tspan>
-      <tspan dx="5" fill="#1f2328">12</tspan>
+      <tspan dx="5" fill="#1f2328">13</tspan>
       <tspan fill="#656d76"> Followers</tspan>
     </text>
 
@@ -160,11 +160,11 @@
         <text x="94" y="77" font-size="8" fill="#1f2328" text-anchor="middle"></text>
         <rect x="87" y="80" width="14" height="1" rx="2" fill="#40c463"/>
         <text x="94" y="98" font-size="7" fill="#1f2328" text-anchor="middle">2</text>
-        <text x="118" y="62" font-size="8" fill="#1f2328" text-anchor="middle">3</text>
-        <rect x="111" y="65" width="14" height="15" rx="2" fill="#30a14e"/>
+        <text x="118" y="57" font-size="8" fill="#1f2328" text-anchor="middle">4</text>
+        <rect x="111" y="60" width="14" height="20" rx="2" fill="#30a14e"/>
         <text x="118" y="98" font-size="7" fill="#1f2328" text-anchor="middle">2.5</text>
-        <text x="142" y="42" font-size="8" fill="#1f2328" text-anchor="middle">7</text>
-        <rect x="135" y="45" width="14" height="35" rx="2" fill="#30a14e"/>
+        <text x="142" y="47" font-size="8" fill="#1f2328" text-anchor="middle">6</text>
+        <rect x="135" y="50" width="14" height="30" rx="2" fill="#30a14e"/>
         <text x="142" y="98" font-size="7" fill="#1f2328" text-anchor="middle">3</text>
         <text x="166" y="67" font-size="8" fill="#1f2328" text-anchor="middle">2</text>
         <rect x="159" y="70" width="14" height="10" rx="2" fill="#216e39"/>
@@ -6309,7 +6309,7 @@
           <rect x="0" y="0" width="240" height="56" rx="6" fill="#ffffff" stroke="#d1d9e0" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#1f2328">
             <tspan x="10" dy="22" font-weight="600">Sun, 31. May 2026: 1 movie watched</tspan>
-            <tspan x="10" dy="18">• Ladies First (2026) - 3★</tspan>
+            <tspan x="10" dy="18">• Ladies First (2026) - 2.5★</tspan>
           </text>
         </g>
       </a>
