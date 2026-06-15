@@ -4,7 +4,7 @@
   "years": [
     2026
   ],
-  "generatedAt": "2026-06-14T04:21:09.100Z",
+  "generatedAt": "2026-06-15T04:43:02.499Z",
   "meta": {
     "weekStart": "monday",
     "minYear": 2026,
@@ -16,8 +16,8 @@
     "maxCount": 2
   },
   "stats": {
-    "films": 33,
-    "daysActive": 32,
+    "films": 35,
+    "daysActive": 33,
     "streak": 2
   },
   "monthLabels": [
@@ -2142,10 +2142,23 @@
       "date": "2026-06-14",
       "week": 23,
       "weekday": 6,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 2,
+      "ratingAvg": 3.8,
+      "films": [
+        {
+          "title": "50 First Dates",
+          "year": "2004",
+          "rating": 4,
+          "url": "https://letterboxd.com/heartymorales/film/50-first-dates/"
+        },
+        {
+          "title": "Anger Management",
+          "year": "2003",
+          "rating": 3.5,
+          "url": "https://letterboxd.com/heartymorales/film/anger-management/"
+        }
+      ],
+      "level": 4,
       "inRange": true,
       "url": "https://letterboxd.com/heartymorales/diary/films/for/2026/06/14/"
     },
@@ -4804,9 +4817,43 @@
         }
       ],
       "url": "https://letterboxd.com/heartymorales/diary/films/for/2026/06/10/"
+    },
+    {
+      "date": "2026-06-14",
+      "count": 2,
+      "ratingAvg": 3.8,
+      "films": [
+        {
+          "title": "50 First Dates",
+          "year": "2004",
+          "rating": 4,
+          "url": "https://letterboxd.com/heartymorales/film/50-first-dates/"
+        },
+        {
+          "title": "Anger Management",
+          "year": "2003",
+          "rating": 3.5,
+          "url": "https://letterboxd.com/heartymorales/film/anger-management/"
+        }
+      ],
+      "url": "https://letterboxd.com/heartymorales/diary/films/for/2026/06/14/"
     }
   ],
   "recent": [
+    {
+      "date": "2026-06-14",
+      "title": "50 First Dates",
+      "year": "2004",
+      "rating": 4,
+      "url": "https://letterboxd.com/heartymorales/film/50-first-dates/"
+    },
+    {
+      "date": "2026-06-14",
+      "title": "Anger Management",
+      "year": "2003",
+      "rating": 3.5,
+      "url": "https://letterboxd.com/heartymorales/film/anger-management/"
+    },
     {
       "date": "2026-06-10",
       "title": "Fight Club",
@@ -4862,20 +4909,6 @@
       "year": "2024",
       "rating": 2.5,
       "url": "https://letterboxd.com/heartymorales/film/the-idea-of-you-2024/"
-    },
-    {
-      "date": "2026-05-22",
-      "title": "Love & Other Drugs",
-      "year": "2010",
-      "rating": 4,
-      "url": "https://letterboxd.com/heartymorales/film/love-other-drugs/"
-    },
-    {
-      "date": "2026-05-20",
-      "title": "Whiplash",
-      "year": "2014",
-      "rating": 5,
-      "url": "https://letterboxd.com/heartymorales/film/whiplash-2014/"
     }
   ]
 }
