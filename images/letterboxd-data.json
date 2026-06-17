@@ -4,7 +4,7 @@
   "years": [
     2026
   ],
-  "generatedAt": "2026-06-16T04:27:30.196Z",
+  "generatedAt": "2026-06-17T04:21:20.757Z",
   "meta": {
     "weekStart": "monday",
     "minYear": 2026,
@@ -16,8 +16,8 @@
     "maxCount": 2
   },
   "stats": {
-    "films": 35,
-    "daysActive": 33,
+    "films": 36,
+    "daysActive": 34,
     "streak": 2
   },
   "monthLabels": [
@@ -2177,10 +2177,17 @@
       "date": "2026-06-16",
       "week": 24,
       "weekday": 1,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 1,
+      "ratingAvg": 3.5,
+      "films": [
+        {
+          "title": "Scary Movie",
+          "year": "2026",
+          "rating": 3.5,
+          "url": "https://letterboxd.com/heartymorales/film/scary-movie-2026/"
+        }
+      ],
+      "level": 2,
       "inRange": true,
       "url": "https://letterboxd.com/heartymorales/diary/films/for/2026/06/16/"
     },
@@ -4837,9 +4844,30 @@
         }
       ],
       "url": "https://letterboxd.com/heartymorales/diary/films/for/2026/06/14/"
+    },
+    {
+      "date": "2026-06-16",
+      "count": 1,
+      "ratingAvg": 3.5,
+      "films": [
+        {
+          "title": "Scary Movie",
+          "year": "2026",
+          "rating": 3.5,
+          "url": "https://letterboxd.com/heartymorales/film/scary-movie-2026/"
+        }
+      ],
+      "url": "https://letterboxd.com/heartymorales/diary/films/for/2026/06/16/"
     }
   ],
   "recent": [
+    {
+      "date": "2026-06-16",
+      "title": "Scary Movie",
+      "year": "2026",
+      "rating": 3.5,
+      "url": "https://letterboxd.com/heartymorales/film/scary-movie-2026/"
+    },
     {
       "date": "2026-06-14",
       "title": "50 First Dates",
@@ -4902,13 +4930,6 @@
       "year": "2017",
       "rating": 5,
       "url": "https://letterboxd.com/heartymorales/film/the-lego-batman-movie/"
-    },
-    {
-      "date": "2026-05-25",
-      "title": "The Idea of You",
-      "year": "2024",
-      "rating": 2.5,
-      "url": "https://letterboxd.com/heartymorales/film/the-idea-of-you-2024/"
     }
   ]
 }
