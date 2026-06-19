@@ -163,11 +163,11 @@
         <text x="118" y="59" font-size="8" fill="#1f2328" text-anchor="middle">4</text>
         <rect x="111" y="62" width="14" height="18" rx="2" fill="#30a14e"/>
         <text x="118" y="98" font-size="7" fill="#1f2328" text-anchor="middle">2.5</text>
-        <text x="142" y="50" font-size="8" fill="#1f2328" text-anchor="middle">6</text>
-        <rect x="135" y="53" width="14" height="27" rx="2" fill="#30a14e"/>
+        <text x="142" y="46" font-size="8" fill="#1f2328" text-anchor="middle">7</text>
+        <rect x="135" y="49" width="14" height="31" rx="2" fill="#30a14e"/>
         <text x="142" y="98" font-size="7" fill="#1f2328" text-anchor="middle">3</text>
-        <text x="166" y="59" font-size="8" fill="#1f2328" text-anchor="middle">4</text>
-        <rect x="159" y="62" width="14" height="18" rx="2" fill="#216e39"/>
+        <text x="166" y="63" font-size="8" fill="#1f2328" text-anchor="middle">3</text>
+        <rect x="159" y="66" width="14" height="14" rx="2" fill="#216e39"/>
         <text x="166" y="98" font-size="7" fill="#1f2328" text-anchor="middle">3.5</text>
         <text x="190" y="32" font-size="8" fill="#1f2328" text-anchor="middle">10</text>
         <rect x="183" y="35" width="14" height="45" rx="2" fill="#216e39"/>
@@ -1624,7 +1624,7 @@
           <rect x="0" y="0" width="240" height="56" rx="6" fill="#ffffff" stroke="#d1d9e0" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#1f2328">
             <tspan x="10" dy="22" font-weight="600">Tue, 16. Jun 2026: 1 movie watched</tspan>
-            <tspan x="10" dy="18">• Scary Movie (2026) - 3.5★</tspan>
+            <tspan x="10" dy="18">• Scary Movie (2026) - 3★</tspan>
           </text>
         </g>
       </a>

@@ -4,7 +4,7 @@
   "years": [
     2026
   ],
-  "generatedAt": "2026-06-18T04:14:32.293Z",
+  "generatedAt": "2026-06-19T04:43:03.761Z",
   "meta": {
     "weekStart": "monday",
     "minYear": 2026,
@@ -2178,12 +2178,12 @@
       "week": 24,
       "weekday": 1,
       "count": 1,
-      "ratingAvg": 3.5,
+      "ratingAvg": 3,
       "films": [
         {
           "title": "Scary Movie",
           "year": "2026",
-          "rating": 3.5,
+          "rating": 3,
           "url": "https://letterboxd.com/heartymorales/film/scary-movie-2026/"
         }
       ],
@@ -4848,12 +4848,12 @@
     {
       "date": "2026-06-16",
       "count": 1,
-      "ratingAvg": 3.5,
+      "ratingAvg": 3,
       "films": [
         {
           "title": "Scary Movie",
           "year": "2026",
-          "rating": 3.5,
+          "rating": 3,
           "url": "https://letterboxd.com/heartymorales/film/scary-movie-2026/"
         }
       ],
@@ -4865,7 +4865,7 @@
       "date": "2026-06-16",
       "title": "Scary Movie",
       "year": "2026",
-      "rating": 3.5,
+      "rating": 3,
       "url": "https://letterboxd.com/heartymorales/film/scary-movie-2026/"
     },
     {
