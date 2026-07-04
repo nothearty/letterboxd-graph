@@ -4,7 +4,7 @@
   "years": [
     2026
   ],
-  "generatedAt": "2026-07-03T03:30:04.235Z",
+  "generatedAt": "2026-07-04T03:22:25.823Z",
   "meta": {
     "weekStart": "monday",
     "minYear": 2026,
@@ -16,8 +16,8 @@
     "maxCount": 2
   },
   "stats": {
-    "films": 36,
-    "daysActive": 34,
+    "films": 37,
+    "daysActive": 35,
     "streak": 2
   },
   "monthLabels": [
@@ -2371,10 +2371,17 @@
       "date": "2026-07-03",
       "week": 26,
       "weekday": 4,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 1,
+      "ratingAvg": 3.5,
+      "films": [
+        {
+          "title": "Sonic the Hedgehog 3",
+          "year": "2024",
+          "rating": 3.5,
+          "url": "https://letterboxd.com/heartymorales/film/sonic-the-hedgehog-3/"
+        }
+      ],
+      "level": 2,
       "inRange": true,
       "url": "https://letterboxd.com/heartymorales/diary/films/for/2026/07/03/"
     },
@@ -4858,9 +4865,30 @@
         }
       ],
       "url": "https://letterboxd.com/heartymorales/diary/films/for/2026/06/16/"
+    },
+    {
+      "date": "2026-07-03",
+      "count": 1,
+      "ratingAvg": 3.5,
+      "films": [
+        {
+          "title": "Sonic the Hedgehog 3",
+          "year": "2024",
+          "rating": 3.5,
+          "url": "https://letterboxd.com/heartymorales/film/sonic-the-hedgehog-3/"
+        }
+      ],
+      "url": "https://letterboxd.com/heartymorales/diary/films/for/2026/07/03/"
     }
   ],
   "recent": [
+    {
+      "date": "2026-07-03",
+      "title": "Sonic the Hedgehog 3",
+      "year": "2024",
+      "rating": 3.5,
+      "url": "https://letterboxd.com/heartymorales/film/sonic-the-hedgehog-3/"
+    },
     {
       "date": "2026-06-16",
       "title": "Scary Movie",
@@ -4923,13 +4951,6 @@
       "year": "2025",
       "rating": 3,
       "url": "https://letterboxd.com/heartymorales/film/obsession-2025/"
-    },
-    {
-      "date": "2026-05-25",
-      "title": "The Lego Batman Movie",
-      "year": "2017",
-      "rating": 5,
-      "url": "https://letterboxd.com/heartymorales/film/the-lego-batman-movie/"
     }
   ]
 }
