@@ -4,7 +4,7 @@
   "years": [
     2026
   ],
-  "generatedAt": "2026-07-07T03:37:46.412Z",
+  "generatedAt": "2026-07-08T02:52:57.019Z",
   "meta": {
     "weekStart": "monday",
     "minYear": 2026,
@@ -16,8 +16,8 @@
     "maxCount": 2
   },
   "stats": {
-    "films": 38,
-    "daysActive": 36,
+    "films": 40,
+    "daysActive": 37,
     "streak": 2
   },
   "monthLabels": [
@@ -2429,10 +2429,23 @@
       "date": "2026-07-07",
       "week": 27,
       "weekday": 1,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 2,
+      "ratingAvg": 5,
+      "films": [
+        {
+          "title": "The Dark Knight Rises",
+          "year": "2012",
+          "rating": 5,
+          "url": "https://letterboxd.com/heartymorales/film/the-dark-knight-rises/"
+        },
+        {
+          "title": "The Dark Knight",
+          "year": "2008",
+          "rating": 5,
+          "url": "https://letterboxd.com/heartymorales/film/the-dark-knight/"
+        }
+      ],
+      "level": 4,
       "inRange": true,
       "url": "https://letterboxd.com/heartymorales/diary/films/for/2026/07/07/"
     },
@@ -4900,9 +4913,43 @@
         }
       ],
       "url": "https://letterboxd.com/heartymorales/diary/films/for/2026/07/05/"
+    },
+    {
+      "date": "2026-07-07",
+      "count": 2,
+      "ratingAvg": 5,
+      "films": [
+        {
+          "title": "The Dark Knight Rises",
+          "year": "2012",
+          "rating": 5,
+          "url": "https://letterboxd.com/heartymorales/film/the-dark-knight-rises/"
+        },
+        {
+          "title": "The Dark Knight",
+          "year": "2008",
+          "rating": 5,
+          "url": "https://letterboxd.com/heartymorales/film/the-dark-knight/"
+        }
+      ],
+      "url": "https://letterboxd.com/heartymorales/diary/films/for/2026/07/07/"
     }
   ],
   "recent": [
+    {
+      "date": "2026-07-07",
+      "title": "The Dark Knight Rises",
+      "year": "2012",
+      "rating": 5,
+      "url": "https://letterboxd.com/heartymorales/film/the-dark-knight-rises/"
+    },
+    {
+      "date": "2026-07-07",
+      "title": "The Dark Knight",
+      "year": "2008",
+      "rating": 5,
+      "url": "https://letterboxd.com/heartymorales/film/the-dark-knight/"
+    },
     {
       "date": "2026-07-05",
       "title": "Batman Begins",
@@ -4958,20 +5005,6 @@
       "year": "2024",
       "rating": 2.5,
       "url": "https://letterboxd.com/heartymorales/film/subservience-2024/"
-    },
-    {
-      "date": "2026-05-31",
-      "title": "Ladies First",
-      "year": "2026",
-      "rating": 2.5,
-      "url": "https://letterboxd.com/heartymorales/film/ladies-first-2026/"
-    },
-    {
-      "date": "2026-05-28",
-      "title": "The Lego Movie 2: The Second Part",
-      "year": "2019",
-      "rating": 2.5,
-      "url": "https://letterboxd.com/heartymorales/film/the-lego-movie-2-the-second-part/"
     }
   ]
 }
