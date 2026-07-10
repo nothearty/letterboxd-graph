@@ -4,7 +4,7 @@
   "years": [
     2026
   ],
-  "generatedAt": "2026-07-09T03:31:09.571Z",
+  "generatedAt": "2026-07-10T03:34:20.738Z",
   "meta": {
     "weekStart": "monday",
     "minYear": 2026,
@@ -16,8 +16,8 @@
     "maxCount": 2
   },
   "stats": {
-    "films": 40,
-    "daysActive": 37,
+    "films": 41,
+    "daysActive": 38,
     "streak": 2
   },
   "monthLabels": [
@@ -2464,10 +2464,17 @@
       "date": "2026-07-09",
       "week": 27,
       "weekday": 3,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 1,
+      "ratingAvg": 2.5,
+      "films": [
+        {
+          "title": "Man of Steel",
+          "year": "2013",
+          "rating": 2.5,
+          "url": "https://letterboxd.com/heartymorales/film/man-of-steel/"
+        }
+      ],
+      "level": 2,
       "inRange": true,
       "url": "https://letterboxd.com/heartymorales/diary/films/for/2026/07/09/"
     },
@@ -4933,9 +4940,30 @@
         }
       ],
       "url": "https://letterboxd.com/heartymorales/diary/films/for/2026/07/07/"
+    },
+    {
+      "date": "2026-07-09",
+      "count": 1,
+      "ratingAvg": 2.5,
+      "films": [
+        {
+          "title": "Man of Steel",
+          "year": "2013",
+          "rating": 2.5,
+          "url": "https://letterboxd.com/heartymorales/film/man-of-steel/"
+        }
+      ],
+      "url": "https://letterboxd.com/heartymorales/diary/films/for/2026/07/09/"
     }
   ],
   "recent": [
+    {
+      "date": "2026-07-09",
+      "title": "Man of Steel",
+      "year": "2013",
+      "rating": 2.5,
+      "url": "https://letterboxd.com/heartymorales/film/man-of-steel/"
+    },
     {
       "date": "2026-07-07",
       "title": "The Dark Knight Rises",
@@ -4998,13 +5026,6 @@
       "year": "2014",
       "rating": 4,
       "url": "https://letterboxd.com/heartymorales/film/blended/"
-    },
-    {
-      "date": "2026-06-03",
-      "title": "Subservience",
-      "year": "2024",
-      "rating": 2.5,
-      "url": "https://letterboxd.com/heartymorales/film/subservience-2024/"
     }
   ]
 }
