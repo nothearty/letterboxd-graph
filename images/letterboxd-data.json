@@ -4,7 +4,7 @@
   "years": [
     2026
   ],
-  "generatedAt": "2026-07-10T03:34:20.738Z",
+  "generatedAt": "2026-07-11T02:48:43.553Z",
   "meta": {
     "weekStart": "monday",
     "minYear": 2026,
@@ -16,8 +16,8 @@
     "maxCount": 2
   },
   "stats": {
-    "films": 41,
-    "daysActive": 38,
+    "films": 42,
+    "daysActive": 39,
     "streak": 2
   },
   "monthLabels": [
@@ -2465,12 +2465,12 @@
       "week": 27,
       "weekday": 3,
       "count": 1,
-      "ratingAvg": 2.5,
+      "ratingAvg": 2,
       "films": [
         {
           "title": "Man of Steel",
           "year": "2013",
-          "rating": 2.5,
+          "rating": 2,
           "url": "https://letterboxd.com/heartymorales/film/man-of-steel/"
         }
       ],
@@ -2482,10 +2482,17 @@
       "date": "2026-07-10",
       "week": 27,
       "weekday": 4,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 1,
+      "ratingAvg": 3,
+      "films": [
+        {
+          "title": "Batman v Superman: Dawn of Justice",
+          "year": "2016",
+          "rating": 3,
+          "url": "https://letterboxd.com/heartymorales/film/batman-v-superman-dawn-of-justice/"
+        }
+      ],
+      "level": 2,
       "inRange": true,
       "url": "https://letterboxd.com/heartymorales/diary/films/for/2026/07/10/"
     },
@@ -4944,24 +4951,45 @@
     {
       "date": "2026-07-09",
       "count": 1,
-      "ratingAvg": 2.5,
+      "ratingAvg": 2,
       "films": [
         {
           "title": "Man of Steel",
           "year": "2013",
-          "rating": 2.5,
+          "rating": 2,
           "url": "https://letterboxd.com/heartymorales/film/man-of-steel/"
         }
       ],
       "url": "https://letterboxd.com/heartymorales/diary/films/for/2026/07/09/"
+    },
+    {
+      "date": "2026-07-10",
+      "count": 1,
+      "ratingAvg": 3,
+      "films": [
+        {
+          "title": "Batman v Superman: Dawn of Justice",
+          "year": "2016",
+          "rating": 3,
+          "url": "https://letterboxd.com/heartymorales/film/batman-v-superman-dawn-of-justice/"
+        }
+      ],
+      "url": "https://letterboxd.com/heartymorales/diary/films/for/2026/07/10/"
     }
   ],
   "recent": [
     {
+      "date": "2026-07-10",
+      "title": "Batman v Superman: Dawn of Justice",
+      "year": "2016",
+      "rating": 3,
+      "url": "https://letterboxd.com/heartymorales/film/batman-v-superman-dawn-of-justice/"
+    },
+    {
       "date": "2026-07-09",
       "title": "Man of Steel",
       "year": "2013",
-      "rating": 2.5,
+      "rating": 2,
       "url": "https://letterboxd.com/heartymorales/film/man-of-steel/"
     },
     {
@@ -5019,13 +5047,6 @@
       "year": "1999",
       "rating": 5,
       "url": "https://letterboxd.com/heartymorales/film/fight-club/1/"
-    },
-    {
-      "date": "2026-06-07",
-      "title": "Blended",
-      "year": "2014",
-      "rating": 4,
-      "url": "https://letterboxd.com/heartymorales/film/blended/"
     }
   ]
 }
