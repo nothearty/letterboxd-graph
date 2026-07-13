@@ -4,7 +4,7 @@
   "years": [
     2026
   ],
-  "generatedAt": "2026-07-12T02:57:26.299Z",
+  "generatedAt": "2026-07-13T03:16:02.762Z",
   "meta": {
     "weekStart": "monday",
     "minYear": 2026,
@@ -16,9 +16,9 @@
     "maxCount": 2
   },
   "stats": {
-    "films": 43,
-    "daysActive": 40,
-    "streak": 3
+    "films": 44,
+    "daysActive": 41,
+    "streak": 4
   },
   "monthLabels": [
     {
@@ -2518,10 +2518,17 @@
       "date": "2026-07-12",
       "week": 27,
       "weekday": 6,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 1,
+      "ratingAvg": 5,
+      "films": [
+        {
+          "title": "The Batman",
+          "year": "2022",
+          "rating": 5,
+          "url": "https://letterboxd.com/heartymorales/film/the-batman/"
+        }
+      ],
+      "level": 2,
       "inRange": true,
       "url": "https://letterboxd.com/heartymorales/diary/films/for/2026/07/12/"
     },
@@ -4996,9 +5003,30 @@
         }
       ],
       "url": "https://letterboxd.com/heartymorales/diary/films/for/2026/07/11/"
+    },
+    {
+      "date": "2026-07-12",
+      "count": 1,
+      "ratingAvg": 5,
+      "films": [
+        {
+          "title": "The Batman",
+          "year": "2022",
+          "rating": 5,
+          "url": "https://letterboxd.com/heartymorales/film/the-batman/"
+        }
+      ],
+      "url": "https://letterboxd.com/heartymorales/diary/films/for/2026/07/12/"
     }
   ],
   "recent": [
+    {
+      "date": "2026-07-12",
+      "title": "The Batman",
+      "year": "2022",
+      "rating": 5,
+      "url": "https://letterboxd.com/heartymorales/film/the-batman/"
+    },
     {
       "date": "2026-07-11",
       "title": "Supergirl",
@@ -5061,13 +5089,6 @@
       "year": "2004",
       "rating": 4,
       "url": "https://letterboxd.com/heartymorales/film/50-first-dates/"
-    },
-    {
-      "date": "2026-06-14",
-      "title": "Anger Management",
-      "year": "2003",
-      "rating": 3.5,
-      "url": "https://letterboxd.com/heartymorales/film/anger-management/"
     }
   ]
 }
