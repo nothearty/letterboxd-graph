@@ -4,7 +4,7 @@
   "years": [
     2026
   ],
-  "generatedAt": "2026-07-20T03:38:30.135Z",
+  "generatedAt": "2026-07-21T02:51:39.053Z",
   "meta": {
     "weekStart": "monday",
     "minYear": 2026,
@@ -16,8 +16,8 @@
     "maxCount": 2
   },
   "stats": {
-    "films": 45,
-    "daysActive": 42,
+    "films": 46,
+    "daysActive": 43,
     "streak": 4
   },
   "monthLabels": [
@@ -2620,10 +2620,17 @@
       "date": "2026-07-20",
       "week": 29,
       "weekday": 0,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 1,
+      "ratingAvg": 3.5,
+      "films": [
+        {
+          "title": "Bumblebee",
+          "year": "2018",
+          "rating": 3.5,
+          "url": "https://letterboxd.com/heartymorales/film/bumblebee/"
+        }
+      ],
+      "level": 2,
       "inRange": true,
       "url": "https://letterboxd.com/heartymorales/diary/films/for/2026/07/20/"
     },
@@ -5038,9 +5045,30 @@
         }
       ],
       "url": "https://letterboxd.com/heartymorales/diary/films/for/2026/07/18/"
+    },
+    {
+      "date": "2026-07-20",
+      "count": 1,
+      "ratingAvg": 3.5,
+      "films": [
+        {
+          "title": "Bumblebee",
+          "year": "2018",
+          "rating": 3.5,
+          "url": "https://letterboxd.com/heartymorales/film/bumblebee/"
+        }
+      ],
+      "url": "https://letterboxd.com/heartymorales/diary/films/for/2026/07/20/"
     }
   ],
   "recent": [
+    {
+      "date": "2026-07-20",
+      "title": "Bumblebee",
+      "year": "2018",
+      "rating": 3.5,
+      "url": "https://letterboxd.com/heartymorales/film/bumblebee/"
+    },
     {
       "date": "2026-07-18",
       "title": "Tenet",
@@ -5103,13 +5131,6 @@
       "year": "2024",
       "rating": 3.5,
       "url": "https://letterboxd.com/heartymorales/film/sonic-the-hedgehog-3/"
-    },
-    {
-      "date": "2026-06-16",
-      "title": "Scary Movie",
-      "year": "2026",
-      "rating": 3,
-      "url": "https://letterboxd.com/heartymorales/film/scary-movie-2026/"
     }
   ]
 }
