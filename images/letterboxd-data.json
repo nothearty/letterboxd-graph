@@ -4,7 +4,7 @@
   "years": [
     2026
   ],
-  "generatedAt": "2026-07-22T02:49:19.716Z",
+  "generatedAt": "2026-07-23T02:55:14.520Z",
   "meta": {
     "weekStart": "monday",
     "minYear": 2026,
@@ -16,8 +16,8 @@
     "maxCount": 2
   },
   "stats": {
-    "films": 46,
-    "daysActive": 43,
+    "films": 47,
+    "daysActive": 44,
     "streak": 4
   },
   "monthLabels": [
@@ -2649,10 +2649,17 @@
       "date": "2026-07-22",
       "week": 29,
       "weekday": 2,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 1,
+      "ratingAvg": 4.5,
+      "films": [
+        {
+          "title": "Transformers: Rise of the Beasts",
+          "year": "2023",
+          "rating": 4.5,
+          "url": "https://letterboxd.com/heartymorales/film/transformers-rise-of-the-beasts/"
+        }
+      ],
+      "level": 2,
       "inRange": true,
       "url": "https://letterboxd.com/heartymorales/diary/films/for/2026/07/22/"
     },
@@ -5059,9 +5066,30 @@
         }
       ],
       "url": "https://letterboxd.com/heartymorales/diary/films/for/2026/07/20/"
+    },
+    {
+      "date": "2026-07-22",
+      "count": 1,
+      "ratingAvg": 4.5,
+      "films": [
+        {
+          "title": "Transformers: Rise of the Beasts",
+          "year": "2023",
+          "rating": 4.5,
+          "url": "https://letterboxd.com/heartymorales/film/transformers-rise-of-the-beasts/"
+        }
+      ],
+      "url": "https://letterboxd.com/heartymorales/diary/films/for/2026/07/22/"
     }
   ],
   "recent": [
+    {
+      "date": "2026-07-22",
+      "title": "Transformers: Rise of the Beasts",
+      "year": "2023",
+      "rating": 4.5,
+      "url": "https://letterboxd.com/heartymorales/film/transformers-rise-of-the-beasts/"
+    },
     {
       "date": "2026-07-20",
       "title": "Bumblebee",
@@ -5124,13 +5152,6 @@
       "year": "2005",
       "rating": 4,
       "url": "https://letterboxd.com/heartymorales/film/batman-begins/"
-    },
-    {
-      "date": "2026-07-03",
-      "title": "Sonic the Hedgehog 3",
-      "year": "2024",
-      "rating": 3.5,
-      "url": "https://letterboxd.com/heartymorales/film/sonic-the-hedgehog-3/"
     }
   ]
 }
