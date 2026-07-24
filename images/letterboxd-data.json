@@ -4,7 +4,7 @@
   "years": [
     2026
   ],
-  "generatedAt": "2026-07-23T02:55:14.520Z",
+  "generatedAt": "2026-07-24T02:50:35.536Z",
   "meta": {
     "weekStart": "monday",
     "minYear": 2026,
@@ -16,8 +16,8 @@
     "maxCount": 2
   },
   "stats": {
-    "films": 47,
-    "daysActive": 44,
+    "films": 48,
+    "daysActive": 45,
     "streak": 4
   },
   "monthLabels": [
@@ -2667,10 +2667,17 @@
       "date": "2026-07-23",
       "week": 29,
       "weekday": 3,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 1,
+      "ratingAvg": 5,
+      "films": [
+        {
+          "title": "The Prestige",
+          "year": "2006",
+          "rating": 5,
+          "url": "https://letterboxd.com/heartymorales/film/the-prestige/1/"
+        }
+      ],
+      "level": 2,
       "inRange": true,
       "url": "https://letterboxd.com/heartymorales/diary/films/for/2026/07/23/"
     },
@@ -5080,9 +5087,30 @@
         }
       ],
       "url": "https://letterboxd.com/heartymorales/diary/films/for/2026/07/22/"
+    },
+    {
+      "date": "2026-07-23",
+      "count": 1,
+      "ratingAvg": 5,
+      "films": [
+        {
+          "title": "The Prestige",
+          "year": "2006",
+          "rating": 5,
+          "url": "https://letterboxd.com/heartymorales/film/the-prestige/1/"
+        }
+      ],
+      "url": "https://letterboxd.com/heartymorales/diary/films/for/2026/07/23/"
     }
   ],
   "recent": [
+    {
+      "date": "2026-07-23",
+      "title": "The Prestige",
+      "year": "2006",
+      "rating": 5,
+      "url": "https://letterboxd.com/heartymorales/film/the-prestige/1/"
+    },
     {
       "date": "2026-07-22",
       "title": "Transformers: Rise of the Beasts",
@@ -5145,13 +5173,6 @@
       "year": "2008",
       "rating": 5,
       "url": "https://letterboxd.com/heartymorales/film/the-dark-knight/"
-    },
-    {
-      "date": "2026-07-05",
-      "title": "Batman Begins",
-      "year": "2005",
-      "rating": 4,
-      "url": "https://letterboxd.com/heartymorales/film/batman-begins/"
     }
   ]
 }
