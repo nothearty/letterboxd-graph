@@ -4,7 +4,7 @@
   "years": [
     2026
   ],
-  "generatedAt": "2026-07-26T02:57:47.784Z",
+  "generatedAt": "2026-07-27T03:24:04.530Z",
   "meta": {
     "weekStart": "monday",
     "minYear": 2026,
@@ -16,8 +16,8 @@
     "maxCount": 2
   },
   "stats": {
-    "films": 48,
-    "daysActive": 45,
+    "films": 49,
+    "daysActive": 46,
     "streak": 4
   },
   "monthLabels": [
@@ -2707,10 +2707,17 @@
       "date": "2026-07-26",
       "week": 29,
       "weekday": 6,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 1,
+      "ratingAvg": 1,
+      "films": [
+        {
+          "title": "72 HOURS",
+          "year": "2026",
+          "rating": 1,
+          "url": "https://letterboxd.com/heartymorales/film/72-hours-2026/"
+        }
+      ],
+      "level": 2,
       "inRange": true,
       "url": "https://letterboxd.com/heartymorales/diary/films/for/2026/07/26/"
     },
@@ -5101,9 +5108,30 @@
         }
       ],
       "url": "https://letterboxd.com/heartymorales/diary/films/for/2026/07/23/"
+    },
+    {
+      "date": "2026-07-26",
+      "count": 1,
+      "ratingAvg": 1,
+      "films": [
+        {
+          "title": "72 HOURS",
+          "year": "2026",
+          "rating": 1,
+          "url": "https://letterboxd.com/heartymorales/film/72-hours-2026/"
+        }
+      ],
+      "url": "https://letterboxd.com/heartymorales/diary/films/for/2026/07/26/"
     }
   ],
   "recent": [
+    {
+      "date": "2026-07-26",
+      "title": "72 HOURS",
+      "year": "2026",
+      "rating": 1,
+      "url": "https://letterboxd.com/heartymorales/film/72-hours-2026/"
+    },
     {
       "date": "2026-07-23",
       "title": "The Prestige",
@@ -5166,13 +5194,6 @@
       "year": "2012",
       "rating": 5,
       "url": "https://letterboxd.com/heartymorales/film/the-dark-knight-rises/"
-    },
-    {
-      "date": "2026-07-07",
-      "title": "The Dark Knight",
-      "year": "2008",
-      "rating": 5,
-      "url": "https://letterboxd.com/heartymorales/film/the-dark-knight/"
     }
   ]
 }
