@@ -4,7 +4,7 @@
   "years": [
     2026
   ],
-  "generatedAt": "2026-07-27T03:24:04.530Z",
+  "generatedAt": "2026-07-28T02:42:08.414Z",
   "meta": {
     "weekStart": "monday",
     "minYear": 2026,
@@ -16,8 +16,8 @@
     "maxCount": 2
   },
   "stats": {
-    "films": 49,
-    "daysActive": 46,
+    "films": 50,
+    "daysActive": 47,
     "streak": 4
   },
   "monthLabels": [
@@ -2725,10 +2725,17 @@
       "date": "2026-07-27",
       "week": 30,
       "weekday": 0,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 1,
+      "ratingAvg": 5,
+      "films": [
+        {
+          "title": "Transformers: Revenge of the Fallen",
+          "year": "2009",
+          "rating": 5,
+          "url": "https://letterboxd.com/heartymorales/film/transformers-revenge-of-the-fallen/"
+        }
+      ],
+      "level": 2,
       "inRange": true,
       "url": "https://letterboxd.com/heartymorales/diary/films/for/2026/07/27/"
     },
@@ -5122,9 +5129,30 @@
         }
       ],
       "url": "https://letterboxd.com/heartymorales/diary/films/for/2026/07/26/"
+    },
+    {
+      "date": "2026-07-27",
+      "count": 1,
+      "ratingAvg": 5,
+      "films": [
+        {
+          "title": "Transformers: Revenge of the Fallen",
+          "year": "2009",
+          "rating": 5,
+          "url": "https://letterboxd.com/heartymorales/film/transformers-revenge-of-the-fallen/"
+        }
+      ],
+      "url": "https://letterboxd.com/heartymorales/diary/films/for/2026/07/27/"
     }
   ],
   "recent": [
+    {
+      "date": "2026-07-27",
+      "title": "Transformers: Revenge of the Fallen",
+      "year": "2009",
+      "rating": 5,
+      "url": "https://letterboxd.com/heartymorales/film/transformers-revenge-of-the-fallen/"
+    },
     {
       "date": "2026-07-26",
       "title": "72 HOURS",
@@ -5187,13 +5215,6 @@
       "year": "2013",
       "rating": 2,
       "url": "https://letterboxd.com/heartymorales/film/man-of-steel/"
-    },
-    {
-      "date": "2026-07-07",
-      "title": "The Dark Knight Rises",
-      "year": "2012",
-      "rating": 5,
-      "url": "https://letterboxd.com/heartymorales/film/the-dark-knight-rises/"
     }
   ]
 }
