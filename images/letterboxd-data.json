@@ -4,7 +4,7 @@
   "years": [
     2026
   ],
-  "generatedAt": "2026-08-02T02:57:16.135Z",
+  "generatedAt": "2026-08-03T02:59:33.528Z",
   "meta": {
     "weekStart": "monday",
     "minYear": 2026,
@@ -16,8 +16,8 @@
     "maxCount": 2
   },
   "stats": {
-    "films": 51,
-    "daysActive": 48,
+    "films": 52,
+    "daysActive": 49,
     "streak": 4
   },
   "monthLabels": [
@@ -2805,10 +2805,17 @@
       "date": "2026-08-02",
       "week": 30,
       "weekday": 6,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 1,
+      "ratingAvg": 2.5,
+      "films": [
+        {
+          "title": "Balls Up",
+          "year": "2026",
+          "rating": 2.5,
+          "url": "https://letterboxd.com/heartymorales/film/balls-up-2026/"
+        }
+      ],
+      "level": 2,
       "inRange": true,
       "url": "https://letterboxd.com/heartymorales/diary/films/for/2026/08/02/"
     },
@@ -5164,9 +5171,30 @@
         }
       ],
       "url": "https://letterboxd.com/heartymorales/diary/films/for/2026/07/29/"
+    },
+    {
+      "date": "2026-08-02",
+      "count": 1,
+      "ratingAvg": 2.5,
+      "films": [
+        {
+          "title": "Balls Up",
+          "year": "2026",
+          "rating": 2.5,
+          "url": "https://letterboxd.com/heartymorales/film/balls-up-2026/"
+        }
+      ],
+      "url": "https://letterboxd.com/heartymorales/diary/films/for/2026/08/02/"
     }
   ],
   "recent": [
+    {
+      "date": "2026-08-02",
+      "title": "Balls Up",
+      "year": "2026",
+      "rating": 2.5,
+      "url": "https://letterboxd.com/heartymorales/film/balls-up-2026/"
+    },
     {
       "date": "2026-07-29",
       "title": "Spider-Man: Brand New Day",
@@ -5229,13 +5257,6 @@
       "year": "2026",
       "rating": 3.5,
       "url": "https://letterboxd.com/heartymorales/film/supergirl-2026/"
-    },
-    {
-      "date": "2026-07-10",
-      "title": "Batman v Superman: Dawn of Justice",
-      "year": "2016",
-      "rating": 3,
-      "url": "https://letterboxd.com/heartymorales/film/batman-v-superman-dawn-of-justice/"
     }
   ]
 }
