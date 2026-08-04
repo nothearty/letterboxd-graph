@@ -4,7 +4,7 @@
   "years": [
     2026
   ],
-  "generatedAt": "2026-08-03T02:59:33.528Z",
+  "generatedAt": "2026-08-04T02:45:03.380Z",
   "meta": {
     "weekStart": "monday",
     "minYear": 2026,
@@ -16,8 +16,8 @@
     "maxCount": 2
   },
   "stats": {
-    "films": 52,
-    "daysActive": 49,
+    "films": 53,
+    "daysActive": 50,
     "streak": 4
   },
   "monthLabels": [
@@ -2823,10 +2823,17 @@
       "date": "2026-08-03",
       "week": 31,
       "weekday": 0,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 1,
+      "ratingAvg": 5,
+      "films": [
+        {
+          "title": "Transformers One",
+          "year": "2024",
+          "rating": 5,
+          "url": "https://letterboxd.com/heartymorales/film/transformers-one/1/"
+        }
+      ],
+      "level": 2,
       "inRange": true,
       "url": "https://letterboxd.com/heartymorales/diary/films/for/2026/08/03/"
     },
@@ -5185,9 +5192,30 @@
         }
       ],
       "url": "https://letterboxd.com/heartymorales/diary/films/for/2026/08/02/"
+    },
+    {
+      "date": "2026-08-03",
+      "count": 1,
+      "ratingAvg": 5,
+      "films": [
+        {
+          "title": "Transformers One",
+          "year": "2024",
+          "rating": 5,
+          "url": "https://letterboxd.com/heartymorales/film/transformers-one/1/"
+        }
+      ],
+      "url": "https://letterboxd.com/heartymorales/diary/films/for/2026/08/03/"
     }
   ],
   "recent": [
+    {
+      "date": "2026-08-03",
+      "title": "Transformers One",
+      "year": "2024",
+      "rating": 5,
+      "url": "https://letterboxd.com/heartymorales/film/transformers-one/1/"
+    },
     {
       "date": "2026-08-02",
       "title": "Balls Up",
@@ -5250,13 +5278,6 @@
       "year": "2022",
       "rating": 5,
       "url": "https://letterboxd.com/heartymorales/film/the-batman/"
-    },
-    {
-      "date": "2026-07-11",
-      "title": "Supergirl",
-      "year": "2026",
-      "rating": 3.5,
-      "url": "https://letterboxd.com/heartymorales/film/supergirl-2026/"
     }
   ]
 }
