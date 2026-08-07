@@ -160,17 +160,17 @@
         <text x="94" y="74" font-size="8" fill="#f0f6fc" text-anchor="middle">1</text>
         <rect x="87" y="77" width="14" height="3" rx="2" fill="#006d32"/>
         <text x="94" y="98" font-size="7" fill="#e6edf3" text-anchor="middle">2</text>
-        <text x="118" y="62" font-size="8" fill="#f0f6fc" text-anchor="middle">5</text>
-        <rect x="111" y="65" width="14" height="15" rx="2" fill="#26a641"/>
+        <text x="118" y="59" font-size="8" fill="#f0f6fc" text-anchor="middle">6</text>
+        <rect x="111" y="62" width="14" height="18" rx="2" fill="#26a641"/>
         <text x="118" y="98" font-size="7" fill="#e6edf3" text-anchor="middle">2.5</text>
         <text x="142" y="50" font-size="8" fill="#f0f6fc" text-anchor="middle">9</text>
         <rect x="135" y="53" width="14" height="27" rx="2" fill="#26a641"/>
         <text x="142" y="98" font-size="7" fill="#e6edf3" text-anchor="middle">3</text>
-        <text x="166" y="56" font-size="8" fill="#f0f6fc" text-anchor="middle">7</text>
-        <rect x="159" y="59" width="14" height="21" rx="2" fill="#39d353"/>
+        <text x="166" y="62" font-size="8" fill="#f0f6fc" text-anchor="middle">5</text>
+        <rect x="159" y="65" width="14" height="15" rx="2" fill="#39d353"/>
         <text x="166" y="98" font-size="7" fill="#e6edf3" text-anchor="middle">3.5</text>
-        <text x="190" y="44" font-size="8" fill="#f0f6fc" text-anchor="middle">11</text>
-        <rect x="183" y="47" width="14" height="33" rx="2" fill="#39d353"/>
+        <text x="190" y="41" font-size="8" fill="#f0f6fc" text-anchor="middle">12</text>
+        <rect x="183" y="44" width="14" height="36" rx="2" fill="#39d353"/>
         <text x="190" y="98" font-size="7" fill="#e6edf3" text-anchor="middle">4</text>
         <text x="214" y="65" font-size="8" fill="#f0f6fc" text-anchor="middle">4</text>
         <rect x="207" y="68" width="14" height="12" rx="2" fill="#39d353"/>
@@ -2677,10 +2677,10 @@
           fill="#006d32"
         />
         <g class="tooltip-group" transform="translate(510, -30)">
-          <rect x="0" y="0" width="287" height="56" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+          <rect x="0" y="0" width="273" height="56" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
             <tspan x="10" dy="22" font-weight="600">Wed, 29. Jul 2026: 1 movie watched</tspan>
-            <tspan x="10" dy="18">• Spider-Man: Brand New Day (2026) - 3.5★</tspan>
+            <tspan x="10" dy="18">• Spider-Man: Brand New Day (2026) - 4★</tspan>
           </text>
         </g>
       </a>
@@ -5491,7 +5491,7 @@
           <rect x="0" y="0" width="240" height="56" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
             <tspan x="10" dy="22" font-weight="600">Sat, 11. Jul 2026: 1 movie watched</tspan>
-            <tspan x="10" dy="18">• Supergirl (2026) - 3.5★</tspan>
+            <tspan x="10" dy="18">• Supergirl (2026) - 2.5★</tspan>
           </text>
         </g>
       </a>

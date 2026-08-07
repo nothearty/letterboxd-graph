@@ -4,7 +4,7 @@
   "years": [
     2026
   ],
-  "generatedAt": "2026-08-06T02:45:32.180Z",
+  "generatedAt": "2026-08-07T02:47:15.441Z",
   "meta": {
     "weekStart": "monday",
     "minYear": 2026,
@@ -2501,12 +2501,12 @@
       "week": 27,
       "weekday": 5,
       "count": 1,
-      "ratingAvg": 3.5,
+      "ratingAvg": 2.5,
       "films": [
         {
           "title": "Supergirl",
           "year": "2026",
-          "rating": 3.5,
+          "rating": 2.5,
           "url": "https://letterboxd.com/heartymorales/film/supergirl-2026/"
         }
       ],
@@ -2755,12 +2755,12 @@
       "week": 30,
       "weekday": 2,
       "count": 1,
-      "ratingAvg": 3.5,
+      "ratingAvg": 4,
       "films": [
         {
           "title": "Spider-Man: Brand New Day",
           "year": "2026",
-          "rating": 3.5,
+          "rating": 4,
           "url": "https://letterboxd.com/heartymorales/film/spider-man-brand-new-day/"
         }
       ],
@@ -5056,12 +5056,12 @@
     {
       "date": "2026-07-11",
       "count": 1,
-      "ratingAvg": 3.5,
+      "ratingAvg": 2.5,
       "films": [
         {
           "title": "Supergirl",
           "year": "2026",
-          "rating": 3.5,
+          "rating": 2.5,
           "url": "https://letterboxd.com/heartymorales/film/supergirl-2026/"
         }
       ],
@@ -5168,12 +5168,12 @@
     {
       "date": "2026-07-29",
       "count": 1,
-      "ratingAvg": 3.5,
+      "ratingAvg": 4,
       "films": [
         {
           "title": "Spider-Man: Brand New Day",
           "year": "2026",
-          "rating": 3.5,
+          "rating": 4,
           "url": "https://letterboxd.com/heartymorales/film/spider-man-brand-new-day/"
         }
       ],
@@ -5227,7 +5227,7 @@
       "date": "2026-07-29",
       "title": "Spider-Man: Brand New Day",
       "year": "2026",
-      "rating": 3.5,
+      "rating": 4,
       "url": "https://letterboxd.com/heartymorales/film/spider-man-brand-new-day/"
     },
     {
