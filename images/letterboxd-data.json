@@ -4,7 +4,7 @@
   "years": [
     2026
   ],
-  "generatedAt": "2026-08-11T01:55:50.381Z",
+  "generatedAt": "2026-08-12T02:08:23.618Z",
   "meta": {
     "weekStart": "monday",
     "minYear": 2026,
@@ -16,8 +16,8 @@
     "maxCount": 2
   },
   "stats": {
-    "films": 55,
-    "daysActive": 51,
+    "films": 56,
+    "daysActive": 52,
     "streak": 4
   },
   "monthLabels": [
@@ -2931,10 +2931,17 @@
       "date": "2026-08-11",
       "week": 32,
       "weekday": 1,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 1,
+      "ratingAvg": 5,
+      "films": [
+        {
+          "title": "Spider-Man: Into the Spider-Verse",
+          "year": "2018",
+          "rating": 5,
+          "url": "https://letterboxd.com/heartymorales/film/spider-man-into-the-spider-verse/1/"
+        }
+      ],
+      "level": 2,
       "inRange": true,
       "url": "https://letterboxd.com/heartymorales/diary/films/for/2026/08/11/"
     },
@@ -5239,9 +5246,30 @@
         }
       ],
       "url": "https://letterboxd.com/heartymorales/diary/films/for/2026/08/08/"
+    },
+    {
+      "date": "2026-08-11",
+      "count": 1,
+      "ratingAvg": 5,
+      "films": [
+        {
+          "title": "Spider-Man: Into the Spider-Verse",
+          "year": "2018",
+          "rating": 5,
+          "url": "https://letterboxd.com/heartymorales/film/spider-man-into-the-spider-verse/1/"
+        }
+      ],
+      "url": "https://letterboxd.com/heartymorales/diary/films/for/2026/08/11/"
     }
   ],
   "recent": [
+    {
+      "date": "2026-08-11",
+      "title": "Spider-Man: Into the Spider-Verse",
+      "year": "2018",
+      "rating": 5,
+      "url": "https://letterboxd.com/heartymorales/film/spider-man-into-the-spider-verse/1/"
+    },
     {
       "date": "2026-08-08",
       "title": "In the Mood for Love",
@@ -5304,13 +5332,6 @@
       "year": "2023",
       "rating": 4.5,
       "url": "https://letterboxd.com/heartymorales/film/transformers-rise-of-the-beasts/"
-    },
-    {
-      "date": "2026-07-20",
-      "title": "Bumblebee",
-      "year": "2018",
-      "rating": 3.5,
-      "url": "https://letterboxd.com/heartymorales/film/bumblebee/"
     }
   ]
 }
