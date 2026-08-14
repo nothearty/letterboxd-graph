@@ -4,7 +4,7 @@
   "years": [
     2026
   ],
-  "generatedAt": "2026-08-13T02:10:14.160Z",
+  "generatedAt": "2026-08-14T02:08:50.541Z",
   "meta": {
     "weekStart": "monday",
     "minYear": 2026,
@@ -16,8 +16,8 @@
     "maxCount": 2
   },
   "stats": {
-    "films": 56,
-    "daysActive": 52,
+    "films": 57,
+    "daysActive": 53,
     "streak": 4
   },
   "monthLabels": [
@@ -2960,10 +2960,17 @@
       "date": "2026-08-13",
       "week": 32,
       "weekday": 3,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 1,
+      "ratingAvg": 4,
+      "films": [
+        {
+          "title": "Things We Don't Say",
+          "year": "2026",
+          "rating": 4,
+          "url": "https://letterboxd.com/heartymorales/film/things-we-dont-say/"
+        }
+      ],
+      "level": 2,
       "inRange": true,
       "url": "https://letterboxd.com/heartymorales/diary/films/for/2026/08/13/"
     },
@@ -5260,9 +5267,30 @@
         }
       ],
       "url": "https://letterboxd.com/heartymorales/diary/films/for/2026/08/11/"
+    },
+    {
+      "date": "2026-08-13",
+      "count": 1,
+      "ratingAvg": 4,
+      "films": [
+        {
+          "title": "Things We Don't Say",
+          "year": "2026",
+          "rating": 4,
+          "url": "https://letterboxd.com/heartymorales/film/things-we-dont-say/"
+        }
+      ],
+      "url": "https://letterboxd.com/heartymorales/diary/films/for/2026/08/13/"
     }
   ],
   "recent": [
+    {
+      "date": "2026-08-13",
+      "title": "Things We Don't Say",
+      "year": "2026",
+      "rating": 4,
+      "url": "https://letterboxd.com/heartymorales/film/things-we-dont-say/"
+    },
     {
       "date": "2026-08-11",
       "title": "Spider-Man: Into the Spider-Verse",
@@ -5325,13 +5353,6 @@
       "year": "2006",
       "rating": 5,
       "url": "https://letterboxd.com/heartymorales/film/the-prestige/1/"
-    },
-    {
-      "date": "2026-07-22",
-      "title": "Transformers: Rise of the Beasts",
-      "year": "2023",
-      "rating": 4.5,
-      "url": "https://letterboxd.com/heartymorales/film/transformers-rise-of-the-beasts/"
     }
   ]
 }

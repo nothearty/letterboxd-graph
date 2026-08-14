@@ -122,7 +122,7 @@
         <tspan fill="#7d8590">@heartymorales</tspan>
       </a>
       <tspan dx="5" fill="#7d8590">•</tspan>
-      <tspan dx="5" fill="#e6edf3">186</tspan>
+      <tspan dx="5" fill="#e6edf3">187</tspan>
       <tspan fill="#7d8590"> Films</tspan>
       <tspan dx="5" fill="#7d8590">•</tspan>
       <tspan dx="5" fill="#e6edf3">14</tspan>
@@ -143,7 +143,7 @@
     
     <!-- Movies with rating distribution tooltip -->
     <g class="movies-group" transform="translate(60, 5)">
-      <text x="0" y="15" font-size="14" font-weight="500" fill="#7d8590">56 Movies</text>
+      <text x="0" y="15" font-size="14" font-weight="500" fill="#7d8590">57 Movies</text>
       <g class="movies-tooltip" transform="translate(-30, -115)">
         <rect x="0" y="0" width="260" height="105" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
         <text x="130" y="18" font-size="11" font-weight="600" fill="#f0f6fc" text-anchor="middle">Rating Distribution</text>
@@ -169,8 +169,8 @@
         <text x="166" y="60" font-size="8" fill="#f0f6fc" text-anchor="middle">6</text>
         <rect x="159" y="63" width="14" height="17" rx="2" fill="#39d353"/>
         <text x="166" y="98" font-size="7" fill="#e6edf3" text-anchor="middle">3.5</text>
-        <text x="190" y="43" font-size="8" fill="#f0f6fc" text-anchor="middle">12</text>
-        <rect x="183" y="46" width="14" height="34" rx="2" fill="#39d353"/>
+        <text x="190" y="40" font-size="8" fill="#f0f6fc" text-anchor="middle">13</text>
+        <rect x="183" y="43" width="14" height="37" rx="2" fill="#39d353"/>
         <text x="190" y="98" font-size="7" fill="#e6edf3" text-anchor="middle">4</text>
         <text x="214" y="66" font-size="8" fill="#f0f6fc" text-anchor="middle">4</text>
         <rect x="207" y="69" width="14" height="11" rx="2" fill="#39d353"/>
@@ -183,7 +183,7 @@
     
     <!-- Days Active with hover tooltip -->
     <g class="days-active-group" transform="translate(170, 5)">
-      <text x="0" y="15" font-size="14" font-weight="500" fill="#7d8590">52 Days Active</text>
+      <text x="0" y="15" font-size="14" font-weight="500" fill="#7d8590">53 Days Active</text>
       <g class="days-active-tooltip" transform="translate(-20, -115)">
         <rect x="0" y="0" width="200" height="105" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
         <text x="100" y="18" font-size="11" font-weight="600" fill="#f0f6fc" text-anchor="middle">Weekly Distribution</text>
@@ -197,8 +197,8 @@
         <text x="75" y="46" font-size="9" fill="#f0f6fc" text-anchor="middle">7</text>
         <rect x="68" y="49" width="14" height="31" rx="2" fill="#26a641"/>
         <text x="75" y="100" font-size="9" fill="#e6edf3" text-anchor="middle">W</text>
-        <text x="99" y="50" font-size="9" fill="#f0f6fc" text-anchor="middle">6</text>
-        <rect x="92" y="53" width="14" height="27" rx="2" fill="#26a641"/>
+        <text x="99" y="46" font-size="9" fill="#f0f6fc" text-anchor="middle">7</text>
+        <rect x="92" y="49" width="14" height="31" rx="2" fill="#26a641"/>
         <text x="99" y="100" font-size="9" fill="#e6edf3" text-anchor="middle">T</text>
         <text x="123" y="41" font-size="9" fill="#f0f6fc" text-anchor="middle">8</text>
         <rect x="116" y="44" width="14" height="36" rx="2" fill="#26a641"/>
@@ -3672,12 +3672,13 @@
           width="14"
           height="14"
           rx="2"
-          fill="#161b22"
+          fill="#006d32"
         />
-        <g class="tooltip-group" transform="translate(544, 5)">
-          <rect x="0" y="0" width="245" height="38" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+        <g class="tooltip-group" transform="translate(544, -13)">
+          <rect x="0" y="0" width="240" height="56" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
-            <tspan x="10" dy="22" font-weight="600">Thu, 13. Aug 2026: 0 movies watched</tspan>
+            <tspan x="10" dy="22" font-weight="600">Thu, 13. Aug 2026: 1 movie watched</tspan>
+            <tspan x="10" dy="18">• Things We Don&apos;t Say (2026) - 4★</tspan>
           </text>
         </g>
       </a>
