@@ -4,7 +4,7 @@
   "years": [
     2026
   ],
-  "generatedAt": "2026-08-17T01:24:35.687Z",
+  "generatedAt": "2026-08-18T01:21:56.198Z",
   "meta": {
     "weekStart": "monday",
     "minYear": 2026,
@@ -16,8 +16,8 @@
     "maxCount": 2
   },
   "stats": {
-    "films": 57,
-    "daysActive": 53,
+    "films": 58,
+    "daysActive": 54,
     "streak": 4
   },
   "monthLabels": [
@@ -3011,10 +3011,17 @@
       "date": "2026-08-17",
       "week": 33,
       "weekday": 0,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 1,
+      "ratingAvg": 4,
+      "films": [
+        {
+          "title": "Roofman",
+          "year": "2025",
+          "rating": 4,
+          "url": "https://letterboxd.com/heartymorales/film/roofman/"
+        }
+      ],
+      "level": 2,
       "inRange": true,
       "url": "https://letterboxd.com/heartymorales/diary/films/for/2026/08/17/"
     },
@@ -5281,9 +5288,30 @@
         }
       ],
       "url": "https://letterboxd.com/heartymorales/diary/films/for/2026/08/13/"
+    },
+    {
+      "date": "2026-08-17",
+      "count": 1,
+      "ratingAvg": 4,
+      "films": [
+        {
+          "title": "Roofman",
+          "year": "2025",
+          "rating": 4,
+          "url": "https://letterboxd.com/heartymorales/film/roofman/"
+        }
+      ],
+      "url": "https://letterboxd.com/heartymorales/diary/films/for/2026/08/17/"
     }
   ],
   "recent": [
+    {
+      "date": "2026-08-17",
+      "title": "Roofman",
+      "year": "2025",
+      "rating": 4,
+      "url": "https://letterboxd.com/heartymorales/film/roofman/"
+    },
     {
       "date": "2026-08-13",
       "title": "Things We Don't Say",
@@ -5346,13 +5374,6 @@
       "year": "2026",
       "rating": 1,
       "url": "https://letterboxd.com/heartymorales/film/72-hours-2026/"
-    },
-    {
-      "date": "2026-07-23",
-      "title": "The Prestige",
-      "year": "2006",
-      "rating": 5,
-      "url": "https://letterboxd.com/heartymorales/film/the-prestige/1/"
     }
   ]
 }
