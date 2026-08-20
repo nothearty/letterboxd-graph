@@ -4,7 +4,7 @@
   "years": [
     2026
   ],
-  "generatedAt": "2026-08-19T01:23:59.437Z",
+  "generatedAt": "2026-08-20T01:22:54.685Z",
   "meta": {
     "weekStart": "monday",
     "minYear": 2026,
@@ -16,8 +16,8 @@
     "maxCount": 2
   },
   "stats": {
-    "films": 58,
-    "daysActive": 54,
+    "films": 59,
+    "daysActive": 55,
     "streak": 4
   },
   "monthLabels": [
@@ -3040,10 +3040,17 @@
       "date": "2026-08-19",
       "week": 33,
       "weekday": 2,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 1,
+      "ratingAvg": 5,
+      "films": [
+        {
+          "title": "Somebody to Love",
+          "year": "2025",
+          "rating": 5,
+          "url": "https://letterboxd.com/heartymorales/film/somebody-to-love-2025/"
+        }
+      ],
+      "level": 2,
       "inRange": true,
       "url": "https://letterboxd.com/heartymorales/diary/films/for/2026/08/19/"
     },
@@ -5302,9 +5309,30 @@
         }
       ],
       "url": "https://letterboxd.com/heartymorales/diary/films/for/2026/08/17/"
+    },
+    {
+      "date": "2026-08-19",
+      "count": 1,
+      "ratingAvg": 5,
+      "films": [
+        {
+          "title": "Somebody to Love",
+          "year": "2025",
+          "rating": 5,
+          "url": "https://letterboxd.com/heartymorales/film/somebody-to-love-2025/"
+        }
+      ],
+      "url": "https://letterboxd.com/heartymorales/diary/films/for/2026/08/19/"
     }
   ],
   "recent": [
+    {
+      "date": "2026-08-19",
+      "title": "Somebody to Love",
+      "year": "2025",
+      "rating": 5,
+      "url": "https://letterboxd.com/heartymorales/film/somebody-to-love-2025/"
+    },
     {
       "date": "2026-08-17",
       "title": "Roofman",
@@ -5367,13 +5395,6 @@
       "year": "2009",
       "rating": 5,
       "url": "https://letterboxd.com/heartymorales/film/transformers-revenge-of-the-fallen/"
-    },
-    {
-      "date": "2026-07-26",
-      "title": "72 HOURS",
-      "year": "2026",
-      "rating": 1,
-      "url": "https://letterboxd.com/heartymorales/film/72-hours-2026/"
     }
   ]
 }
