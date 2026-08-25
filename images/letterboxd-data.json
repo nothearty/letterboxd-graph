@@ -4,7 +4,7 @@
   "years": [
     2026
   ],
-  "generatedAt": "2026-08-24T01:24:11.620Z",
+  "generatedAt": "2026-08-25T01:21:05.673Z",
   "meta": {
     "weekStart": "monday",
     "minYear": 2026,
@@ -16,8 +16,8 @@
     "maxCount": 2
   },
   "stats": {
-    "films": 59,
-    "daysActive": 55,
+    "films": 60,
+    "daysActive": 56,
     "streak": 4
   },
   "monthLabels": [
@@ -3102,10 +3102,17 @@
       "date": "2026-08-24",
       "week": 34,
       "weekday": 0,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 1,
+      "ratingAvg": 4,
+      "films": [
+        {
+          "title": "GOAT",
+          "year": "2026",
+          "rating": 4,
+          "url": "https://letterboxd.com/heartymorales/film/goat-2026/"
+        }
+      ],
+      "level": 2,
       "inRange": true,
       "url": "https://letterboxd.com/heartymorales/diary/films/for/2026/08/24/"
     },
@@ -5323,9 +5330,30 @@
         }
       ],
       "url": "https://letterboxd.com/heartymorales/diary/films/for/2026/08/19/"
+    },
+    {
+      "date": "2026-08-24",
+      "count": 1,
+      "ratingAvg": 4,
+      "films": [
+        {
+          "title": "GOAT",
+          "year": "2026",
+          "rating": 4,
+          "url": "https://letterboxd.com/heartymorales/film/goat-2026/"
+        }
+      ],
+      "url": "https://letterboxd.com/heartymorales/diary/films/for/2026/08/24/"
     }
   ],
   "recent": [
+    {
+      "date": "2026-08-24",
+      "title": "GOAT",
+      "year": "2026",
+      "rating": 4,
+      "url": "https://letterboxd.com/heartymorales/film/goat-2026/"
+    },
     {
       "date": "2026-08-19",
       "title": "Somebody to Love",
@@ -5388,13 +5416,6 @@
       "year": "2026",
       "rating": 4,
       "url": "https://letterboxd.com/heartymorales/film/spider-man-brand-new-day/"
-    },
-    {
-      "date": "2026-07-27",
-      "title": "Transformers: Revenge of the Fallen",
-      "year": "2009",
-      "rating": 5,
-      "url": "https://letterboxd.com/heartymorales/film/transformers-revenge-of-the-fallen/"
     }
   ]
 }
