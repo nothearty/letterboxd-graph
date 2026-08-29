@@ -4,7 +4,7 @@
   "years": [
     2026
   ],
-  "generatedAt": "2026-08-28T10:11:20.309Z",
+  "generatedAt": "2026-08-29T06:10:22.948Z",
   "meta": {
     "weekStart": "monday",
     "minYear": 2026,
@@ -16,8 +16,8 @@
     "maxCount": 2
   },
   "stats": {
-    "films": 60,
-    "daysActive": 56,
+    "films": 61,
+    "daysActive": 57,
     "streak": 4
   },
   "monthLabels": [
@@ -3153,10 +3153,17 @@
       "date": "2026-08-28",
       "week": 34,
       "weekday": 4,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 1,
+      "ratingAvg": 1,
+      "films": [
+        {
+          "title": "Brothers",
+          "year": "2024",
+          "rating": 1,
+          "url": "https://letterboxd.com/heartymorales/film/brothers-2024/"
+        }
+      ],
+      "level": 2,
       "inRange": true,
       "url": "https://letterboxd.com/heartymorales/diary/films/for/2026/08/28/"
     },
@@ -5344,9 +5351,30 @@
         }
       ],
       "url": "https://letterboxd.com/heartymorales/diary/films/for/2026/08/24/"
+    },
+    {
+      "date": "2026-08-28",
+      "count": 1,
+      "ratingAvg": 1,
+      "films": [
+        {
+          "title": "Brothers",
+          "year": "2024",
+          "rating": 1,
+          "url": "https://letterboxd.com/heartymorales/film/brothers-2024/"
+        }
+      ],
+      "url": "https://letterboxd.com/heartymorales/diary/films/for/2026/08/28/"
     }
   ],
   "recent": [
+    {
+      "date": "2026-08-28",
+      "title": "Brothers",
+      "year": "2024",
+      "rating": 1,
+      "url": "https://letterboxd.com/heartymorales/film/brothers-2024/"
+    },
     {
       "date": "2026-08-24",
       "title": "GOAT",
@@ -5409,13 +5437,6 @@
       "year": "2026",
       "rating": 2.5,
       "url": "https://letterboxd.com/heartymorales/film/balls-up-2026/"
-    },
-    {
-      "date": "2026-07-29",
-      "title": "Spider-Man: Brand New Day",
-      "year": "2026",
-      "rating": 4,
-      "url": "https://letterboxd.com/heartymorales/film/spider-man-brand-new-day/"
     }
   ]
 }
