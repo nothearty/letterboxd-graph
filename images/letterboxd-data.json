@@ -4,7 +4,7 @@
   "years": [
     2026
   ],
-  "generatedAt": "2026-08-29T06:10:22.948Z",
+  "generatedAt": "2026-08-30T04:18:06.435Z",
   "meta": {
     "weekStart": "monday",
     "minYear": 2026,
@@ -16,8 +16,8 @@
     "maxCount": 2
   },
   "stats": {
-    "films": 61,
-    "daysActive": 57,
+    "films": 62,
+    "daysActive": 58,
     "streak": 4
   },
   "monthLabels": [
@@ -3171,10 +3171,17 @@
       "date": "2026-08-29",
       "week": 34,
       "weekday": 5,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 1,
+      "ratingAvg": 3.5,
+      "films": [
+        {
+          "title": "In the Grey",
+          "year": "2026",
+          "rating": 3.5,
+          "url": "https://letterboxd.com/heartymorales/film/in-the-grey-2026/"
+        }
+      ],
+      "level": 2,
       "inRange": true,
       "url": "https://letterboxd.com/heartymorales/diary/films/for/2026/08/29/"
     },
@@ -5365,9 +5372,30 @@
         }
       ],
       "url": "https://letterboxd.com/heartymorales/diary/films/for/2026/08/28/"
+    },
+    {
+      "date": "2026-08-29",
+      "count": 1,
+      "ratingAvg": 3.5,
+      "films": [
+        {
+          "title": "In the Grey",
+          "year": "2026",
+          "rating": 3.5,
+          "url": "https://letterboxd.com/heartymorales/film/in-the-grey-2026/"
+        }
+      ],
+      "url": "https://letterboxd.com/heartymorales/diary/films/for/2026/08/29/"
     }
   ],
   "recent": [
+    {
+      "date": "2026-08-29",
+      "title": "In the Grey",
+      "year": "2026",
+      "rating": 3.5,
+      "url": "https://letterboxd.com/heartymorales/film/in-the-grey-2026/"
+    },
     {
       "date": "2026-08-28",
       "title": "Brothers",
@@ -5430,13 +5458,6 @@
       "year": "2024",
       "rating": 5,
       "url": "https://letterboxd.com/heartymorales/film/transformers-one/1/"
-    },
-    {
-      "date": "2026-08-02",
-      "title": "Balls Up",
-      "year": "2026",
-      "rating": 2.5,
-      "url": "https://letterboxd.com/heartymorales/film/balls-up-2026/"
     }
   ]
 }
