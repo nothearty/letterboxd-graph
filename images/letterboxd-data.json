@@ -4,7 +4,7 @@
   "years": [
     2026
   ],
-  "generatedAt": "2026-09-02T03:29:41.357Z",
+  "generatedAt": "2026-09-03T03:30:49.806Z",
   "meta": {
     "weekStart": "monday",
     "minYear": 2026,
@@ -16,8 +16,8 @@
     "maxCount": 2
   },
   "stats": {
-    "films": 63,
-    "daysActive": 59,
+    "films": 64,
+    "daysActive": 60,
     "streak": 4
   },
   "monthLabels": [
@@ -3229,10 +3229,17 @@
       "date": "2026-09-02",
       "week": 35,
       "weekday": 2,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 1,
+      "ratingAvg": 5,
+      "films": [
+        {
+          "title": "Perfect Strangers",
+          "year": "2016",
+          "rating": 5,
+          "url": "https://letterboxd.com/heartymorales/film/perfect-strangers-2016/"
+        }
+      ],
+      "level": 2,
       "inRange": true,
       "url": "https://letterboxd.com/heartymorales/diary/films/for/2026/09/02/"
     },
@@ -5407,9 +5414,30 @@
         }
       ],
       "url": "https://letterboxd.com/heartymorales/diary/films/for/2026/08/31/"
+    },
+    {
+      "date": "2026-09-02",
+      "count": 1,
+      "ratingAvg": 5,
+      "films": [
+        {
+          "title": "Perfect Strangers",
+          "year": "2016",
+          "rating": 5,
+          "url": "https://letterboxd.com/heartymorales/film/perfect-strangers-2016/"
+        }
+      ],
+      "url": "https://letterboxd.com/heartymorales/diary/films/for/2026/09/02/"
     }
   ],
   "recent": [
+    {
+      "date": "2026-09-02",
+      "title": "Perfect Strangers",
+      "year": "2016",
+      "rating": 5,
+      "url": "https://letterboxd.com/heartymorales/film/perfect-strangers-2016/"
+    },
     {
       "date": "2026-08-31",
       "title": "The Ministry of Ungentlemanly Warfare",
@@ -5472,13 +5500,6 @@
       "year": "2000",
       "rating": 2.5,
       "url": "https://letterboxd.com/heartymorales/film/in-the-mood-for-love/"
-    },
-    {
-      "date": "2026-08-08",
-      "title": "Eyes Wide Shut",
-      "year": "1999",
-      "rating": 3.5,
-      "url": "https://letterboxd.com/heartymorales/film/eyes-wide-shut/"
     }
   ]
 }
