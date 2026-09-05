@@ -4,7 +4,7 @@
   "years": [
     2026
   ],
-  "generatedAt": "2026-09-04T03:36:03.738Z",
+  "generatedAt": "2026-09-05T03:30:32.460Z",
   "meta": {
     "weekStart": "monday",
     "minYear": 2026,
@@ -16,8 +16,8 @@
     "maxCount": 2
   },
   "stats": {
-    "films": 64,
-    "daysActive": 60,
+    "films": 65,
+    "daysActive": 61,
     "streak": 4
   },
   "monthLabels": [
@@ -3258,10 +3258,17 @@
       "date": "2026-09-04",
       "week": 35,
       "weekday": 4,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 1,
+      "ratingAvg": 0.5,
+      "films": [
+        {
+          "title": "Tutta colpa di Freud",
+          "year": "2014",
+          "rating": 0.5,
+          "url": "https://letterboxd.com/heartymorales/film/tutta-colpa-di-freud/"
+        }
+      ],
+      "level": 2,
       "inRange": true,
       "url": "https://letterboxd.com/heartymorales/diary/films/for/2026/09/04/"
     },
@@ -5428,9 +5435,30 @@
         }
       ],
       "url": "https://letterboxd.com/heartymorales/diary/films/for/2026/09/02/"
+    },
+    {
+      "date": "2026-09-04",
+      "count": 1,
+      "ratingAvg": 0.5,
+      "films": [
+        {
+          "title": "Tutta colpa di Freud",
+          "year": "2014",
+          "rating": 0.5,
+          "url": "https://letterboxd.com/heartymorales/film/tutta-colpa-di-freud/"
+        }
+      ],
+      "url": "https://letterboxd.com/heartymorales/diary/films/for/2026/09/04/"
     }
   ],
   "recent": [
+    {
+      "date": "2026-09-04",
+      "title": "Tutta colpa di Freud",
+      "year": "2014",
+      "rating": 0.5,
+      "url": "https://letterboxd.com/heartymorales/film/tutta-colpa-di-freud/"
+    },
     {
       "date": "2026-09-02",
       "title": "Perfect Strangers",
@@ -5493,13 +5521,6 @@
       "year": "2018",
       "rating": 5,
       "url": "https://letterboxd.com/heartymorales/film/spider-man-into-the-spider-verse/1/"
-    },
-    {
-      "date": "2026-08-08",
-      "title": "In the Mood for Love",
-      "year": "2000",
-      "rating": 2.5,
-      "url": "https://letterboxd.com/heartymorales/film/in-the-mood-for-love/"
     }
   ]
 }
