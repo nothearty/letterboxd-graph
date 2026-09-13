@@ -4,7 +4,7 @@
   "years": [
     2026
   ],
-  "generatedAt": "2026-09-12T03:41:22.625Z",
+  "generatedAt": "2026-09-13T03:49:04.113Z",
   "meta": {
     "weekStart": "monday",
     "minYear": 2026,
@@ -16,8 +16,8 @@
     "maxCount": 2
   },
   "stats": {
-    "films": 67,
-    "daysActive": 62,
+    "films": 68,
+    "daysActive": 63,
     "streak": 4
   },
   "monthLabels": [
@@ -3366,10 +3366,17 @@
       "date": "2026-09-12",
       "week": 36,
       "weekday": 5,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 1,
+      "ratingAvg": 4,
+      "films": [
+        {
+          "title": "Ocean's Eleven",
+          "year": "2001",
+          "rating": 4,
+          "url": "https://letterboxd.com/heartymorales/film/oceans-eleven-2001/"
+        }
+      ],
+      "level": 2,
       "inRange": true,
       "url": "https://letterboxd.com/heartymorales/diary/films/for/2026/09/12/"
     },
@@ -5482,9 +5489,30 @@
         }
       ],
       "url": "https://letterboxd.com/heartymorales/diary/films/for/2026/09/08/"
+    },
+    {
+      "date": "2026-09-12",
+      "count": 1,
+      "ratingAvg": 4,
+      "films": [
+        {
+          "title": "Ocean's Eleven",
+          "year": "2001",
+          "rating": 4,
+          "url": "https://letterboxd.com/heartymorales/film/oceans-eleven-2001/"
+        }
+      ],
+      "url": "https://letterboxd.com/heartymorales/diary/films/for/2026/09/12/"
     }
   ],
   "recent": [
+    {
+      "date": "2026-09-12",
+      "title": "Ocean's Eleven",
+      "year": "2001",
+      "rating": 4,
+      "url": "https://letterboxd.com/heartymorales/film/oceans-eleven-2001/"
+    },
     {
       "date": "2026-09-08",
       "title": "Ted 2",
@@ -5547,13 +5575,6 @@
       "year": "2025",
       "rating": 5,
       "url": "https://letterboxd.com/heartymorales/film/somebody-to-love-2025/"
-    },
-    {
-      "date": "2026-08-17",
-      "title": "Roofman",
-      "year": "2025",
-      "rating": 4,
-      "url": "https://letterboxd.com/heartymorales/film/roofman/"
     }
   ]
 }
