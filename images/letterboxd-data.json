@@ -4,7 +4,7 @@
   "years": [
     2026
   ],
-  "generatedAt": "2026-09-13T03:49:04.113Z",
+  "generatedAt": "2026-09-14T03:56:50.258Z",
   "meta": {
     "weekStart": "monday",
     "minYear": 2026,
@@ -16,8 +16,8 @@
     "maxCount": 2
   },
   "stats": {
-    "films": 68,
-    "daysActive": 63,
+    "films": 69,
+    "daysActive": 64,
     "streak": 4
   },
   "monthLabels": [
@@ -3384,10 +3384,17 @@
       "date": "2026-09-13",
       "week": 36,
       "weekday": 6,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 1,
+      "ratingAvg": 3.5,
+      "films": [
+        {
+          "title": "Ocean's Twelve",
+          "year": "2004",
+          "rating": 3.5,
+          "url": "https://letterboxd.com/heartymorales/film/oceans-twelve/"
+        }
+      ],
+      "level": 2,
       "inRange": true,
       "url": "https://letterboxd.com/heartymorales/diary/films/for/2026/09/13/"
     },
@@ -5503,9 +5510,30 @@
         }
       ],
       "url": "https://letterboxd.com/heartymorales/diary/films/for/2026/09/12/"
+    },
+    {
+      "date": "2026-09-13",
+      "count": 1,
+      "ratingAvg": 3.5,
+      "films": [
+        {
+          "title": "Ocean's Twelve",
+          "year": "2004",
+          "rating": 3.5,
+          "url": "https://letterboxd.com/heartymorales/film/oceans-twelve/"
+        }
+      ],
+      "url": "https://letterboxd.com/heartymorales/diary/films/for/2026/09/13/"
     }
   ],
   "recent": [
+    {
+      "date": "2026-09-13",
+      "title": "Ocean's Twelve",
+      "year": "2004",
+      "rating": 3.5,
+      "url": "https://letterboxd.com/heartymorales/film/oceans-twelve/"
+    },
     {
       "date": "2026-09-12",
       "title": "Ocean's Eleven",
@@ -5568,13 +5596,6 @@
       "year": "2026",
       "rating": 4,
       "url": "https://letterboxd.com/heartymorales/film/goat-2026/"
-    },
-    {
-      "date": "2026-08-19",
-      "title": "Somebody to Love",
-      "year": "2025",
-      "rating": 5,
-      "url": "https://letterboxd.com/heartymorales/film/somebody-to-love-2025/"
     }
   ]
 }
