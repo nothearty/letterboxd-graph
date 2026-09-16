@@ -4,7 +4,7 @@
   "years": [
     2026
   ],
-  "generatedAt": "2026-09-15T03:57:30.508Z",
+  "generatedAt": "2026-09-16T03:53:54.610Z",
   "meta": {
     "weekStart": "monday",
     "minYear": 2026,
@@ -16,8 +16,8 @@
     "maxCount": 2
   },
   "stats": {
-    "films": 69,
-    "daysActive": 64,
+    "films": 70,
+    "daysActive": 65,
     "streak": 4
   },
   "monthLabels": [
@@ -3413,10 +3413,17 @@
       "date": "2026-09-15",
       "week": 37,
       "weekday": 1,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 1,
+      "ratingAvg": 4,
+      "films": [
+        {
+          "title": "Ocean's Thirteen",
+          "year": "2007",
+          "rating": 4,
+          "url": "https://letterboxd.com/heartymorales/film/oceans-thirteen/"
+        }
+      ],
+      "level": 2,
       "inRange": true,
       "url": "https://letterboxd.com/heartymorales/diary/films/for/2026/09/15/"
     },
@@ -5524,9 +5531,30 @@
         }
       ],
       "url": "https://letterboxd.com/heartymorales/diary/films/for/2026/09/13/"
+    },
+    {
+      "date": "2026-09-15",
+      "count": 1,
+      "ratingAvg": 4,
+      "films": [
+        {
+          "title": "Ocean's Thirteen",
+          "year": "2007",
+          "rating": 4,
+          "url": "https://letterboxd.com/heartymorales/film/oceans-thirteen/"
+        }
+      ],
+      "url": "https://letterboxd.com/heartymorales/diary/films/for/2026/09/15/"
     }
   ],
   "recent": [
+    {
+      "date": "2026-09-15",
+      "title": "Ocean's Thirteen",
+      "year": "2007",
+      "rating": 4,
+      "url": "https://letterboxd.com/heartymorales/film/oceans-thirteen/"
+    },
     {
       "date": "2026-09-13",
       "title": "Ocean's Twelve",
@@ -5589,13 +5617,6 @@
       "year": "2024",
       "rating": 1,
       "url": "https://letterboxd.com/heartymorales/film/brothers-2024/"
-    },
-    {
-      "date": "2026-08-24",
-      "title": "GOAT",
-      "year": "2026",
-      "rating": 4,
-      "url": "https://letterboxd.com/heartymorales/film/goat-2026/"
     }
   ]
 }
