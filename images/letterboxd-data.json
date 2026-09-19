@@ -4,7 +4,7 @@
   "years": [
     2026
   ],
-  "generatedAt": "2026-09-18T03:46:42.552Z",
+  "generatedAt": "2026-09-19T03:43:02.744Z",
   "meta": {
     "weekStart": "monday",
     "minYear": 2026,
@@ -16,8 +16,8 @@
     "maxCount": 2
   },
   "stats": {
-    "films": 70,
-    "daysActive": 65,
+    "films": 71,
+    "daysActive": 66,
     "streak": 4
   },
   "monthLabels": [
@@ -3453,10 +3453,17 @@
       "date": "2026-09-18",
       "week": 37,
       "weekday": 4,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 1,
+      "ratingAvg": 2.5,
+      "films": [
+        {
+          "title": "Public Enemies",
+          "year": "2009",
+          "rating": 2.5,
+          "url": "https://letterboxd.com/heartymorales/film/public-enemies-2009/"
+        }
+      ],
+      "level": 2,
       "inRange": true,
       "url": "https://letterboxd.com/heartymorales/diary/films/for/2026/09/18/"
     },
@@ -5545,9 +5552,30 @@
         }
       ],
       "url": "https://letterboxd.com/heartymorales/diary/films/for/2026/09/15/"
+    },
+    {
+      "date": "2026-09-18",
+      "count": 1,
+      "ratingAvg": 2.5,
+      "films": [
+        {
+          "title": "Public Enemies",
+          "year": "2009",
+          "rating": 2.5,
+          "url": "https://letterboxd.com/heartymorales/film/public-enemies-2009/"
+        }
+      ],
+      "url": "https://letterboxd.com/heartymorales/diary/films/for/2026/09/18/"
     }
   ],
   "recent": [
+    {
+      "date": "2026-09-18",
+      "title": "Public Enemies",
+      "year": "2009",
+      "rating": 2.5,
+      "url": "https://letterboxd.com/heartymorales/film/public-enemies-2009/"
+    },
     {
       "date": "2026-09-15",
       "title": "Ocean's Thirteen",
@@ -5610,13 +5638,6 @@
       "year": "2026",
       "rating": 3.5,
       "url": "https://letterboxd.com/heartymorales/film/in-the-grey-2026/"
-    },
-    {
-      "date": "2026-08-28",
-      "title": "Brothers",
-      "year": "2024",
-      "rating": 1,
-      "url": "https://letterboxd.com/heartymorales/film/brothers-2024/"
     }
   ]
 }
