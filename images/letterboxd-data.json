@@ -4,7 +4,7 @@
   "years": [
     2026
   ],
-  "generatedAt": "2026-09-19T03:43:02.744Z",
+  "generatedAt": "2026-09-20T04:01:14.786Z",
   "meta": {
     "weekStart": "monday",
     "minYear": 2026,
@@ -16,8 +16,8 @@
     "maxCount": 2
   },
   "stats": {
-    "films": 71,
-    "daysActive": 66,
+    "films": 72,
+    "daysActive": 67,
     "streak": 4
   },
   "monthLabels": [
@@ -3471,10 +3471,17 @@
       "date": "2026-09-19",
       "week": 37,
       "weekday": 5,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 1,
+      "ratingAvg": 4,
+      "films": [
+        {
+          "title": "Magazine Dreams",
+          "year": "2023",
+          "rating": 4,
+          "url": "https://letterboxd.com/heartymorales/film/magazine-dreams/"
+        }
+      ],
+      "level": 2,
       "inRange": true,
       "url": "https://letterboxd.com/heartymorales/diary/films/for/2026/09/19/"
     },
@@ -5566,9 +5573,30 @@
         }
       ],
       "url": "https://letterboxd.com/heartymorales/diary/films/for/2026/09/18/"
+    },
+    {
+      "date": "2026-09-19",
+      "count": 1,
+      "ratingAvg": 4,
+      "films": [
+        {
+          "title": "Magazine Dreams",
+          "year": "2023",
+          "rating": 4,
+          "url": "https://letterboxd.com/heartymorales/film/magazine-dreams/"
+        }
+      ],
+      "url": "https://letterboxd.com/heartymorales/diary/films/for/2026/09/19/"
     }
   ],
   "recent": [
+    {
+      "date": "2026-09-19",
+      "title": "Magazine Dreams",
+      "year": "2023",
+      "rating": 4,
+      "url": "https://letterboxd.com/heartymorales/film/magazine-dreams/"
+    },
     {
       "date": "2026-09-18",
       "title": "Public Enemies",
@@ -5631,13 +5659,6 @@
       "year": "2024",
       "rating": 3.5,
       "url": "https://letterboxd.com/heartymorales/film/the-ministry-of-ungentlemanly-warfare/"
-    },
-    {
-      "date": "2026-08-29",
-      "title": "In the Grey",
-      "year": "2026",
-      "rating": 3.5,
-      "url": "https://letterboxd.com/heartymorales/film/in-the-grey-2026/"
     }
   ]
 }
