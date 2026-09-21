@@ -4,7 +4,7 @@
   "years": [
     2026
   ],
-  "generatedAt": "2026-09-20T04:01:14.786Z",
+  "generatedAt": "2026-09-21T03:57:57.588Z",
   "meta": {
     "weekStart": "monday",
     "minYear": 2026,
@@ -16,8 +16,8 @@
     "maxCount": 2
   },
   "stats": {
-    "films": 72,
-    "daysActive": 67,
+    "films": 73,
+    "daysActive": 68,
     "streak": 4
   },
   "monthLabels": [
@@ -3489,10 +3489,17 @@
       "date": "2026-09-20",
       "week": 37,
       "weekday": 6,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 1,
+      "ratingAvg": 3,
+      "films": [
+        {
+          "title": "Ocean's Eight",
+          "year": "2018",
+          "rating": 3,
+          "url": "https://letterboxd.com/heartymorales/film/oceans-eight/"
+        }
+      ],
+      "level": 2,
       "inRange": true,
       "url": "https://letterboxd.com/heartymorales/diary/films/for/2026/09/20/"
     },
@@ -5587,9 +5594,30 @@
         }
       ],
       "url": "https://letterboxd.com/heartymorales/diary/films/for/2026/09/19/"
+    },
+    {
+      "date": "2026-09-20",
+      "count": 1,
+      "ratingAvg": 3,
+      "films": [
+        {
+          "title": "Ocean's Eight",
+          "year": "2018",
+          "rating": 3,
+          "url": "https://letterboxd.com/heartymorales/film/oceans-eight/"
+        }
+      ],
+      "url": "https://letterboxd.com/heartymorales/diary/films/for/2026/09/20/"
     }
   ],
   "recent": [
+    {
+      "date": "2026-09-20",
+      "title": "Ocean's Eight",
+      "year": "2018",
+      "rating": 3,
+      "url": "https://letterboxd.com/heartymorales/film/oceans-eight/"
+    },
     {
       "date": "2026-09-19",
       "title": "Magazine Dreams",
@@ -5652,13 +5680,6 @@
       "year": "2016",
       "rating": 5,
       "url": "https://letterboxd.com/heartymorales/film/perfect-strangers-2016/"
-    },
-    {
-      "date": "2026-08-31",
-      "title": "The Ministry of Ungentlemanly Warfare",
-      "year": "2024",
-      "rating": 3.5,
-      "url": "https://letterboxd.com/heartymorales/film/the-ministry-of-ungentlemanly-warfare/"
     }
   ]
 }
