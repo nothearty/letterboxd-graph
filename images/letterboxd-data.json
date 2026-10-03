@@ -4,7 +4,7 @@
   "years": [
     2026
   ],
-  "generatedAt": "2026-10-02T04:39:55.602Z",
+  "generatedAt": "2026-10-03T04:22:33.653Z",
   "meta": {
     "weekStart": "monday",
     "minYear": 2026,
@@ -16,8 +16,8 @@
     "maxCount": 2
   },
   "stats": {
-    "films": 73,
-    "daysActive": 68,
+    "films": 74,
+    "daysActive": 69,
     "streak": 4
   },
   "monthLabels": [
@@ -3628,10 +3628,17 @@
       "date": "2026-10-02",
       "week": 39,
       "weekday": 4,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 1,
+      "ratingAvg": 2.5,
+      "films": [
+        {
+          "title": "Due Date",
+          "year": "2010",
+          "rating": 2.5,
+          "url": "https://letterboxd.com/heartymorales/film/due-date/"
+        }
+      ],
+      "level": 2,
       "inRange": true,
       "url": "https://letterboxd.com/heartymorales/diary/films/for/2026/10/02/"
     },
@@ -5608,9 +5615,30 @@
         }
       ],
       "url": "https://letterboxd.com/heartymorales/diary/films/for/2026/09/20/"
+    },
+    {
+      "date": "2026-10-02",
+      "count": 1,
+      "ratingAvg": 2.5,
+      "films": [
+        {
+          "title": "Due Date",
+          "year": "2010",
+          "rating": 2.5,
+          "url": "https://letterboxd.com/heartymorales/film/due-date/"
+        }
+      ],
+      "url": "https://letterboxd.com/heartymorales/diary/films/for/2026/10/02/"
     }
   ],
   "recent": [
+    {
+      "date": "2026-10-02",
+      "title": "Due Date",
+      "year": "2010",
+      "rating": 2.5,
+      "url": "https://letterboxd.com/heartymorales/film/due-date/"
+    },
     {
       "date": "2026-09-20",
       "title": "Ocean's Eight",
@@ -5673,13 +5701,6 @@
       "year": "2014",
       "rating": 0.5,
       "url": "https://letterboxd.com/heartymorales/film/tutta-colpa-di-freud/"
-    },
-    {
-      "date": "2026-09-02",
-      "title": "Perfect Strangers",
-      "year": "2016",
-      "rating": 5,
-      "url": "https://letterboxd.com/heartymorales/film/perfect-strangers-2016/"
     }
   ]
 }
