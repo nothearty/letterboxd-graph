@@ -4,7 +4,7 @@
   "years": [
     2026
   ],
-  "generatedAt": "2026-10-03T04:22:33.653Z",
+  "generatedAt": "2026-10-04T04:52:56.660Z",
   "meta": {
     "weekStart": "monday",
     "minYear": 2026,
@@ -16,8 +16,8 @@
     "maxCount": 2
   },
   "stats": {
-    "films": 74,
-    "daysActive": 69,
+    "films": 75,
+    "daysActive": 70,
     "streak": 4
   },
   "monthLabels": [
@@ -3646,10 +3646,17 @@
       "date": "2026-10-03",
       "week": 39,
       "weekday": 5,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 1,
+      "ratingAvg": 1,
+      "films": [
+        {
+          "title": "Novocaine",
+          "year": "2025",
+          "rating": 1,
+          "url": "https://letterboxd.com/heartymorales/film/novocaine-2025/"
+        }
+      ],
+      "level": 2,
       "inRange": true,
       "url": "https://letterboxd.com/heartymorales/diary/films/for/2026/10/03/"
     },
@@ -5629,9 +5636,30 @@
         }
       ],
       "url": "https://letterboxd.com/heartymorales/diary/films/for/2026/10/02/"
+    },
+    {
+      "date": "2026-10-03",
+      "count": 1,
+      "ratingAvg": 1,
+      "films": [
+        {
+          "title": "Novocaine",
+          "year": "2025",
+          "rating": 1,
+          "url": "https://letterboxd.com/heartymorales/film/novocaine-2025/"
+        }
+      ],
+      "url": "https://letterboxd.com/heartymorales/diary/films/for/2026/10/03/"
     }
   ],
   "recent": [
+    {
+      "date": "2026-10-03",
+      "title": "Novocaine",
+      "year": "2025",
+      "rating": 1,
+      "url": "https://letterboxd.com/heartymorales/film/novocaine-2025/"
+    },
     {
       "date": "2026-10-02",
       "title": "Due Date",
@@ -5694,13 +5722,6 @@
       "year": "2002",
       "rating": 3,
       "url": "https://letterboxd.com/heartymorales/film/the-legend-of-al-john-and-jack/"
-    },
-    {
-      "date": "2026-09-04",
-      "title": "Tutta colpa di Freud",
-      "year": "2014",
-      "rating": 0.5,
-      "url": "https://letterboxd.com/heartymorales/film/tutta-colpa-di-freud/"
     }
   ]
 }
