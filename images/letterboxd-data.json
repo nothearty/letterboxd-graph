@@ -4,7 +4,7 @@
   "years": [
     2026
   ],
-  "generatedAt": "2026-10-09T05:09:28.078Z",
+  "generatedAt": "2026-10-10T04:55:27.077Z",
   "meta": {
     "weekStart": "monday",
     "minYear": 2026,
@@ -16,8 +16,8 @@
     "maxCount": 2
   },
   "stats": {
-    "films": 75,
-    "daysActive": 70,
+    "films": 76,
+    "daysActive": 71,
     "streak": 4
   },
   "monthLabels": [
@@ -3719,10 +3719,17 @@
       "date": "2026-10-09",
       "week": 40,
       "weekday": 4,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 1,
+      "ratingAvg": 4,
+      "films": [
+        {
+          "title": "The Social Network",
+          "year": "2010",
+          "rating": 4,
+          "url": "https://letterboxd.com/heartymorales/film/the-social-network/"
+        }
+      ],
+      "level": 2,
       "inRange": true,
       "url": "https://letterboxd.com/heartymorales/diary/films/for/2026/10/09/"
     },
@@ -5650,9 +5657,30 @@
         }
       ],
       "url": "https://letterboxd.com/heartymorales/diary/films/for/2026/10/03/"
+    },
+    {
+      "date": "2026-10-09",
+      "count": 1,
+      "ratingAvg": 4,
+      "films": [
+        {
+          "title": "The Social Network",
+          "year": "2010",
+          "rating": 4,
+          "url": "https://letterboxd.com/heartymorales/film/the-social-network/"
+        }
+      ],
+      "url": "https://letterboxd.com/heartymorales/diary/films/for/2026/10/09/"
     }
   ],
   "recent": [
+    {
+      "date": "2026-10-09",
+      "title": "The Social Network",
+      "year": "2010",
+      "rating": 4,
+      "url": "https://letterboxd.com/heartymorales/film/the-social-network/"
+    },
     {
       "date": "2026-10-03",
       "title": "Novocaine",
@@ -5715,13 +5743,6 @@
       "year": "2015",
       "rating": 3,
       "url": "https://letterboxd.com/heartymorales/film/ted-2/"
-    },
-    {
-      "date": "2026-09-08",
-      "title": "The Legend of Al, John and Jack",
-      "year": "2002",
-      "rating": 3,
-      "url": "https://letterboxd.com/heartymorales/film/the-legend-of-al-john-and-jack/"
     }
   ]
 }
